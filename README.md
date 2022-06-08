@@ -16,7 +16,7 @@ Antes de tudo, configure seu ambiente computacional, conforme as seguintes espec
 
 1) Primeiramente, faça o *download* deste repositório para sua máquina local (extraia todos os arquivos em um diretório dedicado exclusivamente para este trabalho).
 
-2) Atualize os atquivos de dados (i.e., `extantsps.csv` e `pbdb_data.csv`) com seus dados (caso queira somente rodar um teste, use os arquivos contidos nesse repositório, sem problemas).
+2) Atualize os atquivos de dados (i.e., `extant_sps.csv` e `pbdb_data.csv`) com seus dados (caso queira somente rodar um teste, use os arquivos contidos nesse repositório, sem problemas).
 
 3) Pelo *menu inciar* do Windows, abra o *Anaconda Prompt*;
 
