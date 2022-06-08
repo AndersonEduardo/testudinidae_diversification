@@ -9,7 +9,7 @@ Antes de tudo, configure seu ambiente computacional, conforme as seguintes espec
 - Sistema operacional **MS Windows** (versão *10* ou mais recente);
 - Ter o **R** (alguma de suas versões mais recentes) instalado e configurado nas **variáveis de ambiente** do seu sistema;
 - Ter o **Python Anaconda** (alguma de suas versões mais recentes) instalado e configurado nas **variáveis de ambiente** do seu sistema;
-- arquivo `extantsps.csv`, contendo as **espécies atuais** (veja exemplo);
+- arquivo `extant_sps.csv`, contendo as **espécies atuais** (veja exemplo);
 - arquivo `pbdb_data.csv`, contendo os dados do **PBDB - Paleobiology Database** (veja o arquivo de exemplo).
 
 **Passos para rodar a análise:**
