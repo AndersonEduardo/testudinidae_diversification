@@ -1,0 +1,3 @@
+[submodule "PyRate"]
+	path = PyRate
+	url = git@github.com:AndersonEduardo/PyRate.git
