@@ -3,4 +3,6 @@
 *.zip
 __pycache__/
 *.pyc
+*.RData
+*.Rhistory
 pyrate_mcmc_logs/
