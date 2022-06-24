@@ -27,7 +27,7 @@ echo ------------------------------------------------
 echo                    # WELCOME! #
 echo                Running testudinidae
 echo              diversification analysis.
-echo            (started at %date% - %time%)
+echo         (started at %date% - %time%)
 echo ------------------------------------------------
 echo.
 pause
@@ -132,16 +132,34 @@ goto checkforjump1
 
 ::check para pular analise de diversificacao
 :CHECKFORJUMP1
-IF exist pyrate_mcmc_logs/ (goto checkforjump2) ELSE (goto rundiversificationanalysis)
+IF exist pyrate_mcmc_logs/ (
+    goto checkforjump2
+) ELSE (
+    goto rundiversificationanalysis
+)
 
 :CHECKFORJUMP2
 echo. 
-set /p jump="Jump to correlation analysis? (y = yes; n = no) "
+set /p jump=An MCMC logs folder already exists for this project. ^
+Please, type 1 to run diversification analysis again, 2 for just ^
+plot the existing outputs, or 3 to jump to correlation analysis: 
 echo.
-IF %jump%==y (goto runcorrelation) ELSE (goto checkforjump3)
+IF %jump%==1 (
+    goto runcorrelation
+) ELSE IF %jump%==2 (
+    goto makeplots
+) ELSE IF %jump%==3 (
+    goto runcorrelation
+) ELSE (
+    goto checkforjump2
+)
 
-:CHECKFORJUMP3
-IF %jump%==n (goto rundiversificationanalysis) ELSE (goto checkforjump1)
+
+
+@REM IF %jump%==y (goto runcorrelation) ELSE (goto checkforjump3)
+
+@REM :CHECKFORJUMP3
+@REM IF %jump%==n (goto rundiversificationanalysis) ELSE (goto checkforjump1)
 
 @REM IF exist pyrate_mcmc_logs/ (
 @REM     echo. 
