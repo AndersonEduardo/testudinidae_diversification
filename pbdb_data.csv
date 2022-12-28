@@ -1,649 +1,669 @@
-"occurrence_no","record_type","reid_no","flags","collection_no","accepted_name","accepted_rank","accepted_no","early_interval","late_interval","max_ma","min_ma","reference_no"
-"150870","occ","","","13449","Miotestudo ibba","species","86855","Miocene","","23.03","5.333","6063"
-"212209","occ","25905","","21336","Stigmochelys crassa","species","203525","Zanclean","","5.333","3.6","4924"
-"213562","occ","","","21855","Namibchersus namaquensis","species","203528","Middle Miocene","","15.97","11.608","4922"
-"213571","occ","35061","","21855","Mesochersus orangeus","species","374264","Middle Miocene","","15.97","11.608","66484"
-"217875","occ","","","22234","Gigantochersina ammon","species","86271","Zanclean","","5.333","3.6","4648"
-"219150","occ","","","22489","Testudo graeca","species","364325","Pleistocene","","2.588","0.0117","5619"
-"219957","occ","","","22642","Gopherus hexagonatus","species","105238","Pleistocene","","2.588","0.0117","5717"
-"224583","occ","","","21795","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224584","occ","","","21795","Geochelone laetoliensis","species","374268","Piacenzian","","3.6","2.588","4451"
-"224619","occ","","","21798","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224620","occ","","","21798","Geochelone laetoliensis","species","374268","Piacenzian","","3.6","2.588","4451"
-"224642","occ","","","21799","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224643","occ","","","21799","Geochelone laetoliensis","species","374268","Piacenzian","","3.6","2.588","4451"
-"224668","occ","","","21800","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224693","occ","","","21801","Geochelone laetoliensis","species","374268","Piacenzian","","3.6","2.588","4451"
-"224828","occ","","","21810","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224877","occ","","","21812","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224896","occ","","","21813","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"224916","occ","","","21816","Stigmochelys brachygularis","species","374269","Gelasian","","2.588","1.806","4451"
-"225376","occ","","","21831","Stigmochelys brachygularis","species","374269","Piacenzian","","3.6","2.588","4451"
-"225377","occ","","","21831","Geochelone laetoliensis","species","374268","Piacenzian","","3.6","2.588","4451"
-"225661","occ","","","21902","Geochelone sulcata","species","376122","Holocene","","0.0117","0","5230"
-"226150","occ","","","21958","Geochelone sulcata","species","376122","Holocene","","0.0117","0","5230"
-"227080","occ","","","22073","Kinixys erosa","species","203531","Holocene","","0.0117","0","5324"
-"227685","occ","","","22232","Geochelone stromeri","species","203530","Miocene","Pliocene","23.03","2.588","4924"
-"228947","occ","","","22548","Geochelone pardalis","species","376119","Pleistocene","Holocene","2.588","0","5633"
-"229257","occ","33978","","18324","Hesperotestudo orthopygia","species","67779","Clarendonian","","13.6","10.3","63362"
-"256291","occ","","","20604","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","1962"
-"256292","occ","","","20604","Hesperotestudo turgida","species","121672","Late Pleistocene","","0.126","0.0117","1962"
-"256409","occ","","","20613","Hesperotestudo turgida","species","121672","Late Pleistocene","","0.126","0.0117","1962"
-"286965","occ","","","18284","Hesperotestudo orthopygia","species","67779","Barstovian","","15.97","13.6","706"
-"286966","occ","","","18284","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","25657"
-"287337","occ","","","18442","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","7565"
-"287348","occ","","","18165","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","7565"
-"287364","occ","","","18001","Geochelone (Hesperotestudo) angusticeps","species","119614","Hemingfordian","","20.43","15.97","3175"
-"287821","occ","","","18223","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","712"
-"287822","occ","","","18223","Hesperotestudo orthopygia","species","67779","Barstovian","","15.97","13.6","712"
-"287849","occ","","","20400","Gopherus polyphemus","species","55036","Irvingtonian","","1.8","0.3","1960"
-"287873","occ","","","20402","Hesperotestudo crassiscutata","species","173079","Irvingtonian","","1.8","0.3","769"
-"287906","occ","","","20289","Hesperotestudo turgida","species","121672","Irvingtonian","","1.8","0.3","767"
-"288800","occ","","","18450","Geochelone (Hesperotestudo) orthopygia","species","110639","Clarendonian","","13.6","10.3","7593"
-"288830","occ","","","18275","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","725"
-"289269","occ","","","19954","Hesperotestudo turgida","species","121672","Blancan","","4.9","1.8","777"
-"289362","occ","","","18141","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","705"
-"295353","occ","","","28254","Geochelone sulcata","species","376122","Late Miocene","","11.608","5.333","7702"
-"295359","occ","","","28259","Geochelone sulcata","species","376122","Late Miocene","","11.608","5.333","7702"
-"295364","occ","","","28265","Geochelone sulcata","species","376122","Late Miocene","","11.608","5.333","7702"
-"295371","occ","","","28271","Geochelone sulcata","species","376122","Late Miocene","","11.608","5.333","7702"
-"295374","occ","","","28278","Geochelone sulcata","species","376122","Late Miocene","","11.608","5.333","7702"
-"339223","occ","","","32050","Geochelone laetoliensis","species","374268","Pliocene","","5.333","2.588","4451"
-"339224","occ","","","32050","Stigmochelys brachygularis","species","374269","Pliocene","","5.333","2.588","4451"
-"339367","occ","35058","","32054","Centrochelys marocana","species","374258","Late Pliocene","","3.6","2.588","66482"
-"351311","occ","","","33396","Testudo globosa","species","365833","MN 15","","4.2","3.2","8882"
-"351312","occ","","","33396","Testudo antiqua","species","364327","MN 15","","4.2","3.2","8882"
-"360320","occ","","","34128","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","8987"
-"361709","occ","","","34269","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","9009"
-"368231","occ","","","34840","Testudo globosa","species","365833","MN 15","MN 16","4.2","2.588","8882"
-"370487","occ","","","35076","Chersine hermanni","species","94333","Pliocene","Pleistocene","5.333","0.0117","9424"
-"382564","occ","","","36373","Chersine hermanni","species","94333","Pleistocene","","2.588","0.0117","9754"
-"384373","occ","34590","","36579","Testudo graeca","species","364325","Ruscinian","","5.333","3.2","65163"
-"384374","occ","34591","","36579","Titanochelon bacharidisi","species","347873","Ruscinian","","5.333","3.2","65163"
-"387160","occ","","","36985","Titanochelon perpiniana","species","358806","Zanclean","Piacenzian","5.333","2.588","9891"
-"387722","occ","10508","","36974","Titanochelon gymnesica","species","358119","Pleistocene","","2.588","0.0117","9885"
-"407564","occ","","","39209","Megalochelys sivalensis","species","375519","Late Pliocene","","3.6","2.588","10584"
-"407591","occ","","","39210","Megalochelys sivalensis","species","375519","Late Pliocene","","3.6","2.588","10584"
-"416329","occ","32518","","40358","Pelorochelon soriana","species","344584","Bartonian","","41.3","38","59713"
-"417596","occ","35020","","40500","Testudo graeca","species","364325","Early Pleistocene","","2.588","0.781","66368"
-"419482","occ","","","40747","Titanochelon bolivari","species","268040","Orleanian","","20","15.97","10996"
-"419691","occ","","","40765","Paleotestudo antiqua","species","358124","Vallesian","","11.608","8.7","11009"
-"419696","occ","","","40767","Paleotestudo antiqua","species","358124","Vallesian","","11.608","8.7","11009"
-"438949","occ","","","42254","Testudo sphaerica","species","341268","Vallesian","","11.608","8.7","11354"
-"438975","occ","","","42862","Testudo sphaerica","species","341268","Turolian","","8.7","5.333","11354"
-"439020","occ","","","42866","Testudo graeca","species","364325","Middle Pleistocene","","0.781","0.126","11378"
-"440154","occ","","","43016","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","11400"
-"443264","occ","","","43655","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","11465"
-"443695","occ","","","43700","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","11465"
-"464103","occ","","","45835","Indotestudo takasago","species","365744","Chattian","","28.1","23.03","12180"
-"466168","occ","","","46197","Sinohadrianus sichuanensis","species","341244","Late Eocene","Early Oligocene","37.2","28.4","59291"
-"487203","occ","","","48858","Geochelone sulcata","species","376122","Pleistocene","","2.588","0.0117","13025"
-"507148","occ","","","51477","Chersine hermanni","species","94333","Pliocene","Pleistocene","5.333","0.0117","13691"
-"517564","occ","","","52486","Testudo marginata","species","376852","Pliocene","Pleistocene","5.333","0.0117","14113"
-"533694","occ","","","20440","Gopherus polyphemus","species","55036","Rancholabrean","","0.3","0.012","2050"
-"533695","occ","","","20440","Hesperotestudo crassiscutata","species","173079","Rancholabrean","","0.3","0.012","2050"
-"537162","occ","","","55664","Testudo emys","species","364326","Zanclean","","5.333","3.6","15031"
-"537394","occ","","","14149","Miotestudo ibba","species","86855","Langhian","","15.97","13.82","15040"
-"541091","occ","37745","","56563","Testudo marmorum","species","347955","Late Miocene","","11.608","5.333","74972"
-"558955","occ","","","58089","Hesperotestudo crassiscutata","species","173079","Irvingtonian","","1.8","0.3","15601"
-"583618","occ","","","21695","Chersina angulata","species","373908","Pleistocene","","2.588","0.0117","17685"
-"610330","occ","34952","","65405","Gopherus polyphemus","species","55036","Pleistocene","","2.588","0.0117","66358"
-"613759","occ","","","65960","Gigantochersina ammon","species","86271","Rupelian","","33.9","28.1","66233"
-"613760","occ","","","65960","Gigantochersina ammon","species","86271","Rupelian","","33.9","28.1","11955"
-"623862","occ","","","67172","Megalochelys sivalensis","species","375519","Late Miocene","","11.608","5.333","19162"
-"641079","occ","18988","","69062","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","19881"
-"648822","occ","","","70118","Hesperotestudo crassiscutata","species","173079","Blancan","","4.9","1.8","23537"
-"648852","occ","","","18560","Hesperotestudo turgida","species","121672","Hemphillian","","10.3","4.9","23540"
-"648853","occ","","","18545","Hesperotestudo turgida","species","121672","Miocene","","23.03","5.333","23540"
-"651159","occ","35062","","70421","Namibchersus namaquensis","species","203528","Early Miocene","Middle Miocene","23.03","11.608","66484"
-"651161","occ","35063","","70420","Namibchersus namaquensis","species","203528","Early Miocene","Middle Miocene","23.03","11.608","66484"
-"684785","occ","","","73781","Ergilemys insolitus","species","104273","Late Eocene","","37.2","33.9","24732"
-"691628","occ","","","74498","Gopherus donlaloi","species","105212","Rancholabrean","","0.3","0.012","24994"
-"691633","occ","34139","","74499","Chelonoidis gringorum","species","105264","Early Miocene","","23.03","15.97","42415"
-"691670","occ","","","74503","Stylemys inusitata","species","366304","Early Miocene","","23.03","15.97","25003"
-"706396","occ","","","36143","Protestudo bessarabica","species","383995","Late Miocene","","11.608","5.333","24838"
-"706406","occ","","","75801","Protestudo bessarabica","species","383995","Tortonian","","11.62","7.246","24838"
-"706459","occ","","","75802","Protestudo bessarabica","species","383995","Tortonian","","11.62","7.246","24838"
-"706460","occ","","","75802","Testudo tarakliensis","species","383996","Tortonian","","11.62","7.246","24838"
-"709891","occ","","","76059","Gopherus agassizii","species","105217","Late Pleistocene","","0.126","0.0117","25748"
-"709892","occ","","","76059","Geochelone (Hesperotestudo) wilsoni","species","119613","Late Pleistocene","","0.126","0.0117","25748"
-"711068","occ","","","76101","Geochelone (Hesperotestudo) wilsoni","species","119613","Late Pleistocene","","0.126","0.0117","726"
-"740564","occ","","","79632","Geochelone (Hesperotestudo) wilsoni","species","119613","Late Pleistocene","","0.126","0.0117","26749"
-"740941","occ","","","79667","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","26766"
-"751345","occ","","","20033","Hesperotestudo turgida","species","121672","Blancan","","4.9","1.8","27051"
-"779817","occ","","","83868","Chelonoidis hesterna","species","132767","Late Miocene","","11.608","5.333","703"
-"788264","occ","","","85137","Hesperotestudo crassiscutata","species","173079","Pleistocene","","2.588","0.0117","28647"
-"805375","occ","","","87489","Megalochelys sivalensis","species","375519","Late Miocene","","11.608","5.333","29547"
-"811686","occ","34141","","89093","Chelonoidis gringorum","species","105264","Colhuehuapian","","21","17.5","42415"
-"834592","occ","","","92732","Geochelone radiata","species","376121","Holocene","","0.0117","0","31261"
-"835249","occ","","","92733","Geochelone radiata","species","376121","Holocene","","0.0117","0","31261"
-"838742","occ","","","93103","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","3185"
-"842435","occ","","","93519","Megalochelys sivalensis","species","375519","Early Pleistocene","","2.588","0.781","31625"
-"842797","occ","","","93548","Megalochelys sivalensis","species","375519","Late Pliocene","","3.6","2.588","31625"
-"843190","occ","","","93635","Megalochelys sivalensis","species","375519","Late Pliocene","","3.6","2.588","31625"
-"897398","occ","","","99590","Gopherus laticuneus","species","173229","Orellan","","33.9","33.3","34254"
-"897399","occ","","","99590","Stylemys nebrascensis","species","235294","Orellan","","33.9","33.3","34254"
-"897400","occ","","","99591","Gopherus laticuneus","species","173229","Chadronian","","37.2","33.9","34254"
-"897401","occ","","","99591","Stylemys nebrascensis","species","235294","Chadronian","","37.2","33.9","34254"
-"897402","occ","","","99592","Gopherus laticuneus","species","173229","Orellan","","33.9","33.3","34254"
-"897403","occ","","","99592","Stylemys nebrascensis","species","235294","Orellan","","33.9","33.3","34254"
-"897404","occ","","","99593","Gopherus laticuneus","species","173229","Chadronian","","37.2","33.9","34254"
-"897405","occ","","","99593","Stylemys nebrascensis","species","235294","Chadronian","","37.2","33.9","34254"
-"897406","occ","","","99594","Gopherus laticuneus","species","173229","Chadronian","Orellan","37.2","33.3","34254"
-"897407","occ","","","99594","Stylemys nebrascensis","species","235294","Chadronian","Orellan","37.2","33.3","34254"
-"897408","occ","","","99595","Gopherus laticuneus","species","173229","Chadronian","","37.2","33.9","34254"
-"897409","occ","","","99595","Stylemys nebrascensis","species","235294","Chadronian","","37.2","33.9","34254"
-"897411","occ","","","17133","Stylemys nebrascensis","species","235294","Orellan","","33.9","33.3","3170"
-"897414","occ","","","17527","Stylemys nebrascensis","species","235294","Arikareean","","30.8","20.43","697"
-"897417","occ","","","99597","Gopherus mohavensis","species","105245","Barstovian","","15.97","13.6","697"
-"897418","occ","","","19553","Gopherus mohavensis","species","105245","Clarendonian","","13.6","10.3","697"
-"897419","occ","","","19197","Gopherus depressus","species","105233","Hemingfordian","Barstovian","20.43","13.6","697"
-"897421","occ","","","99599","Gopherus agassizii","species","105217","Late Pleistocene","","0.126","0.0117","697"
-"897422","occ","","","99600","Gopherus agassizii","species","105217","Late Pleistocene","","0.126","0.0117","697"
-"897423","occ","","","99601","Gopherus agassizii","species","105217","Late Pleistocene","","0.126","0.0117","697"
-"897424","occ","","","99602","Gopherus agassizii","species","105217","Late Pleistocene","","0.126","0.0117","697"
-"898049","occ","","","99792","Floridemys nana","species","173133","Late Miocene","","11.608","5.333","34299"
-"898197","occ","","","99817","Gopherus hexagonatus","species","105238","Late Pliocene","","3.6","2.588","34313"
-"898198","occ","","","99818","Hesperotestudo turgida","species","121672","Miocene","Pleistocene","23.03","0.0117","36696"
-"898199","occ","","","99819","Hesperotestudo turgida","species","121672","Late Pliocene","","3.6","2.588","34314"
-"898200","occ","","","18076","Hesperotestudo turgida","species","121672","Late Hemphillian","","10.3","4.9","34314"
-"898201","occ","","","20033","Gopherus hexagonatus","species","105238","Blancan","","4.9","1.8","34314"
-"898265","occ","","","99836","Stylemys nebrascensis","species","235294","Early Oligocene","","33.9","28.4","34333"
-"898331","occ","","","99850","Gopherus laticuneus","species","173229","Orellan","","33.9","33.3","760"
-"898332","occ","","","99851","Gopherus laticuneus","species","173229","Orellan","","33.9","33.3","760"
-"926824","occ","35347","","106003","Testudo antiqua","species","364327","Burdigalian","Langhian","20.44","13.82","67646"
-"926825","occ","35348","","106003","Titanochelon vitodurana","species","380347","Burdigalian","Langhian","20.44","13.82","67646"
-"966809","occ","","","65181","Testudo antiqua","species","364327","Burdigalian","","20.44","15.97","37050"
-"970956","occ","","","115188","Chersina angulata","species","373908","Middle Pleistocene","","0.781","0.126","37305"
-"970989","occ","","","115191","Chersina angulata","species","373908","Pleistocene","","2.588","0.0117","37306"
-"971085","occ","","","115205","Chersina angulata","species","373908","Pleistocene","","2.588","0.0117","37314"
-"971086","occ","","","115205","Homopus signatus","species","401991","Pleistocene","","2.588","0.0117","37314"
-"971266","occ","","","115225","Chersina angulata","species","373908","Late Pleistocene","","0.126","0.0117","37211"
-"971759","occ","35059","","32052","Testudo oughlamensis","species","374257","Late Pliocene","","3.6","2.588","66482"
-"971760","occ","35060","","32052","Centrochelys marocana","species","374258","Late Pliocene","","3.6","2.588","66482"
-"989373","occ","","","21725","Impregnochelys pachytectis","species","203535","Burdigalian","","20.44","15.97","4924"
-"989380","occ","","","21726","Kinixys erosa","species","203531","Burdigalian","","20.44","15.97","4924"
-"1034071","occ","","","100213","Hesperotestudo ducateli","species","83315","Langhian","","15.97","13.82","41094"
-"1046732","occ","","","128691","Ergilemys insolitus","species","104273","Late Eocene","","37.2","33.9","42016"
-"1046733","occ","","","128692","Ergilemys insolitus","species","104273","Early Oligocene","","33.9","28.4","42016"
-"1046734","occ","","","73781","Geochelone demissa","species","172495","Late Eocene","","37.2","33.9","34192"
-"1046735","occ","","","73781","Indotestudo kaiseni","species","172494","Late Eocene","","37.2","33.9","34192"
-"1046736","occ","","","128693","Geochelone oskarkuhni","species","238692","Pliocene","","5.333","2.588","42016"
-"1083650","occ","34077","","68440","Pelorochelon eocaenica","species","132786","MP 10","","55.8","48.6","59713"
-"1083772","occ","","","20491","Gopherus polyphemus","species","55036","Rancholabrean","","0.3","0.012","43539"
-"1083773","occ","","","20491","Hesperotestudo turgida","species","121672","Rancholabrean","","0.3","0.012","43539"
-"1083774","occ","","","20491","Hesperotestudo crassiscutata","species","173079","Rancholabrean","","0.3","0.012","43539"
-"1109174","occ","","","132942","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","45440"
-"1109176","occ","32377","","132945","Anhuichelys doumuensis","species","341249","Middle Paleocene","","61.7","58.7","59242"
-"1109177","occ","","","140377","Anhuichelys siaoshihensis","species","261149","Early Paleocene","","66","61.7","45440"
-"1111269","occ","","","20638","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","45624"
-"1112729","occ","","","20650","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","45803"
-"1129994","occ","","","143472","Paleotestudo canetotiana","species","105291","Middle Miocene","","15.97","11.608","46485"
-"1132803","occ","","","18556","Hesperotestudo turgida","species","121672","Hemphillian","","10.3","4.9","46620"
-"1132811","occ","","","37703","Chelonoidis cubensis","species","174457","Pleistocene","","2.588","0.0117","34633"
-"1135676","occ","34346","","144662","Chelonoidis alburyorum","species","364321","Holocene","","0.0117","0","64123"
-"1135763","occ","","","144666","Titanochelon bolivari","species","268040","Middle Miocene","","15.97","11.608","64553"
-"1135764","occ","","","144667","Titanochelon bolivari","species","268040","Middle Miocene","","15.97","11.608","46814"
-"1135765","occ","","","92640","Titanochelon bolivari","species","268040","MN 7 + 8","","12.75","11.1","60890"
-"1135769","occ","","","144670","Titanochelon bolivari","species","268040","Vallesian","","11.608","8.7","46814"
-"1180254","occ","","","152062","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","48757"
-"1180410","occ","","","152081","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","48790"
-"1180488","occ","","","152084","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","48790"
-"1180501","occ","","","152085","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","48790"
-"1196087","occ","","","154722","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","50316"
-"1196088","occ","","","154722","Hesperotestudo turgida","species","121672","Late Pleistocene","","0.126","0.0117","50316"
-"1196879","occ","","","154804","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","50371"
-"1197025","occ","","","154805","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","50394"
-"1197026","occ","","","154805","Hesperotestudo turgida","species","121672","Late Pleistocene","","0.126","0.0117","50394"
-"1197027","occ","","","154805","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","50394"
-"1197867","occ","","","154921","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","50430"
-"1200556","occ","","","20616","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","50695"
-"1246507","occ","","","164396","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","53644"
-"1246509","occ","","","164397","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","53645"
-"1258325","occ","","","166979","Gigantochersina ammon","species","86271","Rupelian","","33.9","28.1","28104"
-"1280887","occ","","","101961","Stylemys nebrascensis","species","235294","Chadronian","","37.2","33.9","55503"
-"1315288","occ","","","176521","Testudo shensiensis","species","364329","Middle Miocene","","15.97","11.608","58113"
-"1317512","occ","34082","","176938","Pelorochelon eocaenica","species","132786","Lutetian","","47.8","41.3","59713"
-"1319016","occ","","","78236","Palaeoemys occitana","species","338366","Ypresian","","56","47.8","58573"
-"1319018","occ","","","78236","Juvemys labarrerei","species","338368","Ypresian","","56","47.8","58573"
-"1320124","occ","","","177493","Juvemys labarrerei","species","338368","Lutetian","","47.8","41.3","58573"
-"1320125","occ","","","177494","Juvemys labarrerei","species","338368","Lutetian","","47.8","41.3","58573"
-"1320126","occ","","","177495","Palaeoemys hessiaca","species","338751","Early Oligocene","","33.9","28.4","58573"
-"1329041","occ","","","178873","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59336"
-"1329047","occ","","","178876","Testudo nanus","species","172496","Early Oligocene","","33.9","28.4","58770"
-"1329832","occ","","","132946","Anhuichelys siaoshihensis","species","261149","Early Paleocene","","66","61.7","59242"
-"1329834","occ","","","179035","Anhuichelys siaoshihensis","species","261149","Early Paleocene","","66","61.7","59242"
-"1329837","occ","","","179036","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329839","occ","","","132939","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329840","occ","","","179037","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329841","occ","","","179038","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329842","occ","","","179039","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329843","occ","","","179040","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329844","occ","","","179025","Anhuichelys tsienshanensis","species","261150","Middle Paleocene","","61.7","58.7","59242"
-"1329845","occ","","","132939","Anhuichelys doumuensis","species","341249","Middle Paleocene","","61.7","58.7","59242"
-"1329846","occ","","","179041","Anhuichelys doumuensis","species","341249","Middle Paleocene","","61.7","58.7","59242"
-"1329847","occ","","","179042","Anhuichelys doumuensis","species","341249","Middle Paleocene","","61.7","58.7","59242"
-"1329848","occ","","","179043","Kansuchelys chiayukuanensis","species","341245","Late Eocene","Oligocene","37.2","23.03","58770"
-"1329856","occ","","","127656","Testudo ulanensis","species","172497","Middle Eocene","","48.6","37.2","58770"
-"1329860","occ","","","179046","Kansuchelys tsiyuanensis","species","341253","Late Eocene","Early Oligocene","37.2","28.4","59660"
-"1329864","occ","","","174962","Testudo sharanensis","species","341258","Middle Eocene","","48.6","37.2","58770"
-"1329865","occ","","","36668","Testudo yunnanensis","species","341259","Middle Eocene","","48.6","37.2","58770"
-"1329866","occ","","","36668","Testudo lunanensis","species","341260","Middle Eocene","","48.6","37.2","58770"
-"1329870","occ","","","179049","Testudo tunhuanensis","species","341261","Miocene","","23.03","5.333","64237"
-"1329890","occ","","","179049","Testudo chienfutungensis","species","341263","Miocene","","23.03","5.333","64237"
-"1329891","occ","","","42273","Testudo hipparionum","species","341264","Ruscinian","","5.333","3.2","58770"
-"1329893","occ","","","179050","Testudo hypercostata","species","341265","Late Miocene","","11.608","5.333","44012"
-"1329899","occ","","","42273","Manouria yushensis","species","341269","Ruscinian","","5.333","3.2","64237"
-"1329901","occ","","","179051","Testudo shilouensis","species","341270","Late Miocene","","11.608","5.333","58770"
-"1329902","occ","","","179052","Testudo changshanensis","species","341271","Early Pleistocene","","2.588","0.781","58770"
-"1334955","occ","","","78236","Fontainechelon cassouleti","species","344582","Ypresian","","56","47.8","59712"
-"1334956","occ","","","179960","Pelorochelon eocaenica","species","132786","Lutetian","","47.8","41.3","59713"
-"1338665","occ","34074","","31736","Pelorochelon eocaenica","species","132786","Bartonian","","41.3","38","59713"
-"1338668","occ","","","32191","Paleotestudo canetotiana","species","105291","Langhian","Serravallian","15.97","11.62","60047"
-"1338680","occ","","","125333","Testudo promarginata","species","364328","Aquitanian","","23.03","20.44","60047"
-"1338693","occ","","","36712","Testudo phosphoritarum","species","346352","MP 28","","28.4","23.03","60047"
-"1338723","occ","34075","","35539","Pelorochelon eocaenica","species","132786","Ypresian","","56","47.8","59713"
-"1338730","occ","34076","","35540","Pelorochelon eocaenica","species","132786","Ypresian","","56","47.8","59713"
-"1338747","occ","","","31586","Cheirogaster maurini","species","347872","Priabonian","","38","33.9","60047"
-"1338751","occ","","","69116","Titanochelon ginsburgi","species","437596","MN 4","","16.9","15.97","60047"
-"1340372","occ","","","181060","Taraschelon gigas","species","346128","Early Oligocene","","33.9","28.4","76915"
-"1340654","occ","","","181101","Testudo denizoti","species","346197","Rupelian","","33.9","28.1","60047"
-"1340664","occ","","","181106","Testudo amberiacensis","species","346198","Turolian","","8.7","5.333","60047"
-"1340665","occ","","","181107","Testudo amberiacensis","species","346198","Turolian","Pliocene","8.7","2.588","60047"
-"1340697","occ","","","181123","Testudo antiqua","species","364327","Middle Miocene","","15.97","11.608","60047"
-"1341215","occ","","","179194","Testudo phosphoritarum","species","346352","Late Eocene","Early Miocene","37.2","15.97","60203"
-"1342810","occ","","","181642","Testudo promarginata","species","364328","Burdigalian","","20.44","15.97","60047"
-"1342841","occ","","","37208","Ergilemys bruneti","species","347700","MP 29","","28.4","23.03","60047"
-"1342848","occ","34079","","181653","Pelorochelon eocaenica","species","132786","Ypresian","","56","47.8","59713"
-"1342851","occ","","","181655","Testudo promarginata","species","364328","Burdigalian","","20.44","15.97","60047"
-"1342855","occ","","","181656","Testudo pusilla","species","364839","Late Oligocene","","28.4","23.03","60047"
-"1342858","occ","34078","","73387","Pelorochelon eocaenica","species","132786","Ypresian","","56","47.8","59713"
-"1342887","occ","","","181675","Testudo promarginata","species","364328","Burdigalian","","20.44","15.97","60047"
-"1348052","occ","","","182641","Fontainechelon cassouleti","species","344582","Ypresian","","56","47.8","60846"
-"1348290","occ","","","182672","Titanochelon bacharidisi","species","347873","Early Pliocene","Late Pliocene","5.333","2.588","60875"
-"1348291","occ","","","182673","Titanochelon bacharidisi","species","347873","Early Pliocene","Late Pliocene","5.333","2.588","60875"
-"1348292","occ","","","182674","Titanochelon bacharidisi","species","347873","Early Pliocene","Late Pliocene","5.333","2.588","60875"
-"1348305","occ","34595","","182679","Testudo marginata","species","376852","Pleistocene","","2.588","0.0117","65163"
-"1348308","occ","","","182682","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","60884"
-"1348330","occ","32933","","182684","Testudo graeca","species","364325","Late Miocene","Early Pliocene","11.608","3.6","60885"
-"1348350","occ","","","182686","Testudo brevitesta","species","347893","Late Pliocene","","3.6","2.588","60889"
-"1348495","occ","32937","","182709","Chersine hermanni","species","94333","Late Pleistocene","Holocene","0.126","0","60904"
-"1348674","occ","","","182751","Titanochelon schafferi","species","347950","Late Miocene","","11.608","5.333","60910"
-"1348692","occ","","","182754","Testudo marmorum","species","347955","Late Miocene","","11.608","5.333","60921"
-"1349005","occ","32945","","182683","Testudo graeca","species","364325","Late Miocene","Early Pliocene","11.608","3.6","60885"
-"1349015","occ","","","182809","Testudo marginata","species","376852","Late Pleistocene","","0.126","0.0117","60957"
-"1349020","occ","","","182810","Testudo marginata","species","376852","Late Pleistocene","","0.126","0.0117","60958"
-"1349021","occ","","","182811","Testudo marginata","species","376852","Pleistocene","","2.588","0.0117","60958"
-"1350561","occ","","","183122","Testudo marginata","species","376852","Pleistocene","","2.588","0.0117","61121"
-"1350589","occ","","","183123","Testudo graeca","species","364325","Pleistocene","","2.588","0.0117","61123"
-"1350619","occ","","","183124","Testudo marginata","species","376852","Late Pleistocene","","0.126","0.0117","61124"
-"1351775","occ","34588","","183345","Testudo graeca","species","364325","Early Pleistocene","","2.588","0.781","65163"
-"1353060","occ","","","67489","Hesperotestudo orthopygia","species","67779","Pliocene","","5.333","2.588","61269"
-"1353061","occ","","","183467","Hesperotestudo orthopygia","species","67779","Late Miocene","Early Pliocene","11.608","3.6","61269"
-"1353062","occ","","","183468","Hesperotestudo orthopygia","species","67779","Late Miocene","Early Pliocene","11.608","3.6","61269"
-"1353063","occ","","","183469","Hesperotestudo orthopygia","species","67779","Late Miocene","Early Pliocene","11.608","3.6","61269"
-"1353064","occ","","","183470","Hesperotestudo orthopygia","species","67779","Late Miocene","Early Pliocene","11.608","3.6","61269"
-"1353065","occ","","","183471","Hesperotestudo orthopygia","species","67779","Late Miocene","Early Pliocene","11.608","3.6","61269"
-"1356865","occ","","","184245","Testudo marginata","species","376852","Late Pleistocene","","0.126","0.0117","61580"
-"1356866","occ","","","184245","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","61580"
-"1356910","occ","36841","","73869","Testudo marmorum","species","347955","MN 11","","8.7","7.75","72005"
-"1357178","occ","","","35989","Titanochelon bolivari","species","268040","Burdigalian","","20.44","15.97","61639"
-"1357179","occ","","","35986","Titanochelon bolivari","species","268040","Langhian","","15.97","13.82","61639"
-"1357180","occ","","","35986","Titanochelon bolivari","species","268040","Langhian","","15.97","13.82","61639"
-"1357181","occ","","","184303","Titanochelon bolivari","species","268040","Middle Miocene","","15.97","11.608","61639"
-"1357182","occ","","","184304","Titanochelon bolivari","species","268040","Early Miocene","","23.03","15.97","61639"
-"1357367","occ","","","184361","Testudo graeca","species","364325","Middle Miocene","","15.97","11.608","61765"
-"1357376","occ","37740","","68561","Titanochelon kayadibiensis","species","431128","MN 5","MN 6","15.97","12.75","74972"
-"1357377","occ","37746","","68561","Testudo marmorum","species","347955","MN 5","MN 6","15.97","12.75","74972"
-"1357461","occ","","","184384","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","61765"
-"1357464","occ","","","68569","Testudo graeca","species","364325","MN 13","","7.246","4.9","61765"
-"1357472","occ","","","184387","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","61765"
-"1357478","occ","","","184389","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","61765"
-"1357479","occ","","","184390","Testudo graeca","species","364325","Pliocene","","5.333","2.588","61765"
-"1357481","occ","","","184392","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","61765"
-"1357483","occ","37741","","56563","Titanochelon kayadibiensis","species","431128","Late Miocene","","11.608","5.333","74972"
-"1357485","occ","","","68560","Testudo graeca","species","364325","Middle Miocene","","15.97","11.608","61765"
-"1357489","occ","37739","","184395","Titanochelon kayadibiensis","species","431128","Late Miocene","","11.608","5.333","74972"
-"1357490","occ","","","68559","Testudo graeca","species","364325","MN 7 + 8","","12.75","11.1","61765"
-"1357493","occ","","","68570","Testudo graeca","species","364325","MN 15","","4.2","3.2","61765"
-"1357494","occ","37742","","184398","Titanochelon kayadibiensis","species","431128","Late Miocene","","11.608","5.333","74972"
-"1357501","occ","","","184399","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","61765"
-"1357513","occ","","","184402","Testudo graeca","species","364325","Late Miocene","","11.608","5.333","61765"
-"1357548","occ","33152","","184410","Titanochelon bacharidisi","species","347873","Early Pliocene","","5.333","3.6","60875"
-"1357842","occ","34080","","184468","Pelorochelon eocaenica","species","132786","Lutetian","","47.8","41.3","59713"
-"1361680","occ","","","13503","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","62131"
-"1362166","occ","","","146600","Stigmochelys crassa","species","203525","Early Miocene","","23.03","15.97","62155"
-"1363256","occ","","","185519","Chelonoidis gallardoi","species","105267","Late Pleistocene","","0.126","0.0117","62199"
-"1364123","occ","36520","","185681","Alatochelon myrteum","species","403966","Early Pliocene","","5.333","3.6","71499"
-"1364944","occ","","","185859","Testudo brevitesta","species","347893","Late Pliocene","","3.6","2.588","60889"
-"1364947","occ","","","185860","Testudo brevitesta","species","347893","Late Pliocene","","3.6","2.588","60889"
-"1364948","occ","","","185861","Testudo brevitesta","species","347893","Late Pliocene","","3.6","2.588","60889"
-"1364949","occ","","","185862","Testudo brevitesta","species","347893","Late Pliocene","","3.6","2.588","60889"
-"1368254","occ","","","186559","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1368255","occ","","","186560","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1368256","occ","","","186561","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1368257","occ","","","186562","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1372444","occ","","","187335","Testudo graeca","species","364325","Late Pleistocene","","0.126","0.0117","62849"
-"1372446","occ","35567","","187336","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372447","occ","","","187337","Titanochelon bolivari","species","268040","Langhian","","15.97","13.82","60876"
-"1372448","occ","","","187338","Titanochelon bolivari","species","268040","Langhian","Serravallian","15.97","11.62","60876"
-"1372449","occ","","","187339","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372451","occ","","","187340","Titanochelon bolivari","species","268040","Tortonian","","11.62","7.246","60876"
-"1372452","occ","","","187341","Titanochelon bolivari","species","268040","Langhian","","15.97","13.82","60876"
-"1372453","occ","","","187342","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372454","occ","","","187343","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372455","occ","","","187344","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372456","occ","","","187345","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372457","occ","","","187346","Titanochelon bolivari","species","268040","Serravallian","","13.82","11.62","60876"
-"1372458","occ","","","187347","Titanochelon bolivari","species","268040","Langhian","Serravallian","15.97","11.62","60876"
-"1374028","occ","","","187580","Testudo promarginata","species","364328","Burdigalian","Tortonian","20.44","7.246","62965"
-"1374623","occ","","","187627","Chelonoidis chilensis","species","242702","Holocene","","0.0117","0","62994"
-"1374642","occ","","","106304","Chelonoidis lutzae","species","358438","Lujanian","","0.781","0.012","62995"
-"1374646","occ","","","187629","Chelonoidis denticulata","species","132770","Late Pleistocene","","0.126","0.0117","62997"
-"1375697","occ","","","178672","Titanochelon perpiniana","species","358806","Zanclean","","5.333","3.6","63082"
-"1375698","occ","","","36103","Titanochelon perpiniana","species","358806","Pliocene","","5.333","2.588","63083"
-"1375757","occ","","","187950","Testudo bosporica","species","238488","Sarmatian","","12.7","11.608","63088"
-"1376844","occ","","","93698","Testudo margae","species","358990","Pleistocene","","2.588","0.0117","63130"
-"1377881","occ","","","188445","Testudo houzei","species","359388","Lutetian","","47.8","41.3","29875"
-"1379369","occ","","","188779","Hesperotestudo orthopygia","species","67779","Clarendonian","","13.6","10.3","63362"
-"1382892","occ","","","189509","Chelonoidis chilensis","species","242702","Montehermosan","Chapadmalalan","6.8","3","42415"
-"1382894","occ","","","189512","Chelonoidis chilensis","species","242702","Lujanian","","0.781","0.012","42415"
-"1382898","occ","","","74646","Chelonoidis gringorum","species","105264","Colloncuran","","15.5","13.8","42415"
-"1382931","occ","34146","","157795","Chelonoidis gallardoi","species","105267","Montehermosan","Chapadmalalan","6.8","3","42415"
-"1385199","occ","","","190141","Testudo costarricensis","species","363763","Oligocene","Early Miocene","33.9","15.97","63970"
-"1386586","occ","","","190539","Stylemys nebrascensis","species","235294","Rupelian","","33.9","28.1","64068"
-"1386610","occ","","","190539","Stylemys nebrascensis","species","235294","Rupelian","","33.9","28.1","64069"
-"1386611","occ","","","190539","Stylemys nebrascensis","species","235294","Rupelian","","33.9","28.1","64069"
-"1386612","occ","","","190539","Stylemys nebrascensis","species","235294","Rupelian","","33.9","28.1","12192"
-"1386613","occ","","","190539","Stylemys nebrascensis","species","235294","Rupelian","","33.9","28.1","13001"
-"1387193","occ","","","190669","Chelonoidis cubensis","species","174457","Pleistocene","","2.588","0.0117","64089"
-"1387194","occ","","","190670","Chelonoidis cubensis","species","174457","Pleistocene","","2.588","0.0117","64089"
-"1387353","occ","","","190712","Chelonoidis monensis","species","364281","Holocene","","0.0117","0","64100"
-"1387354","occ","","","190713","Chelonoidis monensis","species","364281","Holocene","","0.0117","0","64100"
-"1387355","occ","","","190714","Chelonoidis monensis","species","364281","Holocene","","0.0117","0","64100"
-"1387539","occ","","","190746","Geochelone carbonaria","species","132768","Late Pleistocene","","0.126","0.0117","64117"
-"1387547","occ","","","190749","Hesperotestudo bermudae","species","364319","Late Pleistocene","","0.126","0.0117","64121"
-"1387548","occ","37192","","190751","Chelonoidis alburyorum","species","364321","Holocene","","0.0117","0","73285"
-"1387549","occ","37193","","190750","Chelonoidis alburyorum","species","364321","Late Pleistocene","Holocene","0.126","0","73285"
-"1387572","occ","","","190754","Testudo antiqua","species","364327","Middle Miocene","","15.97","11.608","76715"
-"1388167","occ","","","27311","Chelonoidis gringorum","species","105264","Colhuehuapian","","21","17.5","64130"
-"1388168","occ","","","13503","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","63683"
-"1388300","occ","","","13503","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","64147"
-"1388304","occ","","","190844","Geochelone elephantopus","species","132774","Holocene","","0.0117","0","64148"
-"1388323","occ","","","190845","Geochelone elephantopus","species","132774","Holocene","","0.0117","0","64148"
-"1388337","occ","","","190847","Geochelone elephantopus","species","132774","Holocene","","0.0117","0","64148"
-"1388354","occ","","","190846","Geochelone elephantopus","species","132774","Holocene","","0.0117","0","64148"
-"1388406","occ","","","190851","Testudo amiatae","species","364472","Late Miocene","","11.608","5.333","64152"
-"1388422","occ","","","190856","Testudo pecorinii","species","364502","Piacenzian","","3.6","2.588","64161"
-"1388472","occ","","","190864","Testudo despotti","species","364508","Pleistocene","","2.588","0.0117","64168"
-"1389048","occ","","","19073","Gopherus edae","species","105236","Hemingfordian","","20.43","15.97","64367"
-"1389057","occ","","","19074","Gopherus edae","species","105236","Hemingfordian","","20.43","15.97","64367"
-"1389219","occ","","","16977","Gopherus laticuneus","species","173229","Chadronian","","37.2","33.9","64377"
-"1389220","occ","","","16977","Stylemys nebrascensis","species","235294","Chadronian","","37.2","33.9","64377"
-"1389221","occ","","","16977","Stylemys nebrascensis","species","235294","Chadronian","","37.2","33.9","64377"
-"1389573","occ","","","191058","Manouria oyamai","species","364854","Late Pleistocene","","0.126","0.0117","64406"
-"1389574","occ","","","191059","Manouria oyamai","species","364854","Late Pleistocene","","0.126","0.0117","64406"
-"1389575","occ","","","191060","Manouria oyamai","species","364854","Late Pleistocene","","0.126","0.0117","64406"
-"1389576","occ","","","191061","Manouria oyamai","species","364854","Late Pleistocene","","0.126","0.0117","64406"
-"1389577","occ","","","48721","Manouria oyamai","species","364854","Pleistocene","","2.588","0.0117","64406"
-"1391144","occ","","","191365","Aldabrachelys gigantea","species","365355","Late Pleistocene","","0.126","0.0117","64549"
-"1391265","occ","","","191398","Testudo brontops","species","96498","Chadronian","","37.2","33.9","23561"
-"1391461","occ","","","191451","Hesperotestudo turgida","species","121672","Late Pliocene","","3.6","2.588","64597"
-"1391672","occ","","","149143","Chelonoidis carbonarius","species","242701","Late Pleistocene","","0.126","0.0117","64607"
-"1391724","occ","","","20498","Testudo hexagonata","species","365639","Irvingtonian","","1.8","0.3","53742"
-"1391732","occ","34443","","191555","Hesperotestudo gilbertii","species","173078","Tortonian","Zanclean","11.62","3.6","55607"
-"1391950","occ","","","191646","Testudo globosa","species","365833","Pliocene","","5.333","2.588","64640"
-"1392981","occ","","","191836","Hesperotestudo osborniana","species","121689","Hemingfordian","Barstovian","20.43","13.6","64729"
-"1392987","occ","","","17735","Hesperotestudo osborniana","species","121689","Harrisonian","","24.8","20.43","64739"
-"1393308","occ","","","191902","Gopherus brevisternus","species","105220","Arikareean","","30.8","20.43","64765"
-"1393311","occ","","","191903","Gopherus edae","species","105236","Harrisonian","","24.8","20.43","64739"
-"1393357","occ","36625","","18626","Hesperotestudo williamsi","species","366302","Hemingfordian","","20.43","15.97","64768"
-"1393358","occ","","","17885","Stylemys inusitata","species","366304","Hemingfordian","","20.43","15.97","64739"
-"1393415","occ","","","18579","Geochelone (Hesperotestudo) wilsoni","species","119613","Burdigalian","","20.44","15.97","64777"
-"1393418","occ","","","167203","Geochelone (Hesperotestudo) wilsoni","species","119613","Late Oligocene","","28.4","23.03","64777"
-"1393421","occ","","","191910","Hesperotestudo turgida","species","121672","Late Pliocene","Early Pleistocene","3.6","0.781","64778"
-"1393422","occ","","","19963","Hesperotestudo turgida","species","121672","Blancan","","4.9","1.8","64778"
-"1393423","occ","","","19235","Gopherus depressus","species","105233","Hemingfordian","Barstovian","20.43","13.6","759"
-"1393424","occ","","","20037","Gopherus hexagonatus","species","105238","Blancan","","4.9","1.8","3326"
-"1393426","occ","","","20283","Gopherus auffenbergi","species","105219","Irvingtonian","","1.8","0.3","64779"
-"1393427","occ","","","20283","Gopherus auffenbergi","species","105219","Irvingtonian","","1.8","0.3","64780"
-"1393472","occ","","","180202","Stylemys capax","species","105280","Arikareean","","30.8","20.43","14442"
-"1393473","occ","","","180202","Stylemys capax","species","105280","Arikareean","","30.8","20.43","14442"
-"1393495","occ","","","34269","Hesperotestudo crassiscutata","species","173079","Late Pleistocene","","0.126","0.0117","64327"
-"1393519","occ","","","191451","Gopherus hexagonatus","species","105238","Late Pliocene","","3.6","2.588","14442"
-"1393521","occ","","","17745","Stylemys nebrascensis","species","235294","Harrisonian","","24.8","20.43","14442"
-"1393523","occ","","","191916","Hesperotestudo osborniana","species","121689","Barstovian","","15.97","13.6","14442"
-"1393542","occ","","","191918","Hesperotestudo osborniana","species","121689","Hemphillian","","10.3","4.9","14442"
-"1393546","occ","","","191836","Gopherus edae","species","105236","Hemingfordian","Barstovian","20.43","13.6","14442"
-"1393553","occ","","","19940","Hesperotestudo orthopygia","species","67779","Blancan","","4.9","1.8","64804"
-"1393554","occ","","","19936","Hesperotestudo orthopygia","species","67779","Blancan","","4.9","1.8","64804"
-"1393556","occ","","","191921","Gopherus edae","species","105236","Barstovian","","15.97","13.6","14442"
-"1396749","occ","","","192424","Testudo graeca","species","364325","Middle Pleistocene","","0.781","0.126","65127"
-"1396785","occ","","","192425","Testudo graeca","species","364325","Middle Pleistocene","","0.781","0.126","65127"
-"1396849","occ","","","192429","Aldabrachelys gigantea","species","365355","Late Pleistocene","","0.126","0.0117","65136"
-"1396998","occ","","","92902","Testudo marginata","species","376852","Late Pleistocene","","0.126","0.0117","65163"
-"1397000","occ","","","192441","Testudo marginata","species","376852","Pleistocene","","2.588","0.0117","65163"
-"1397002","occ","","","192442","Testudo marginata","species","376852","Pleistocene","","2.588","0.0117","69330"
-"1397005","occ","","","192444","Testudo marginata","species","376852","Pliocene","Pleistocene","5.333","0.0117","65163"
-"1397006","occ","","","192445","Testudo graeca","species","364325","Pleistocene","","2.588","0.0117","65163"
-"1397007","occ","36843","","192446","Testudo antiqua","species","364327","Late Miocene","","11.608","5.333","72007"
-"1400369","occ","","","192971","Manouria oyamai","species","364854","Late Pleistocene","","0.126","0.0117","65605"
-"1401720","occ","","","187347","Paleotestudo antiqua","species","358124","Langhian","Serravallian","15.97","11.62","65661"
-"1401721","occ","","","187345","Paleotestudo antiqua","species","358124","Serravallian","","13.82","11.62","65661"
-"1401722","occ","","","187341","Paleotestudo antiqua","species","358124","Langhian","","15.97","13.82","65661"
-"1401723","occ","","","193245","Paleotestudo antiqua","species","358124","Early Miocene","","23.03","15.97","65661"
-"1401724","occ","","","187337","Paleotestudo antiqua","species","358124","Langhian","","15.97","13.82","65661"
-"1401725","occ","","","193246","Paleotestudo antiqua","species","358124","Early Miocene","","23.03","15.97","65661"
-"1401726","occ","","","193247","Paleotestudo antiqua","species","358124","Early Miocene","","23.03","15.97","65661"
-"1401727","occ","","","35876","Paleotestudo antiqua","species","358124","Vallesian","","11.608","8.7","65661"
-"1405781","occ","","","194169","Cylindraspis triserrata","species","377728","Holocene","","0.0117","0","65931"
-"1405782","occ","","","194169","Cylindraspis inepta","species","377726","Holocene","","0.0117","0","65931"
-"1406974","occ","","","194472","Testudo marginata","species","376852","Middle Pleistocene","","0.781","0.126","66043"
-"1406977","occ","","","194477","Testudo marginata","species","376852","Middle Pleistocene","","0.781","0.126","66043"
-"1408767","occ","","","49520","Testudo steinheimensis","species","430087","MN 7 + 8","","12.75","11.1","74673"
-"1409066","occ","","","194684","Testudo steinheimensis","species","430087","Middle Miocene","","15.97","11.608","66150"
-"1412055","occ","","","153777","Chelonoidis cubensis","species","174457","Late Pleistocene","Holocene","0.126","0","66345"
-"1412115","occ","","","20384","Gopherus polyphemus","species","55036","Gelasian","","2.588","1.806","66358"
-"1412116","occ","","","20385","Gopherus polyphemus","species","55036","Irvingtonian","","1.8","0.3","66358"
-"1412117","occ","","","98317","Gopherus polyphemus","species","55036","Blancan","","4.9","1.8","66358"
-"1412118","occ","","","101742","Gopherus polyphemus","species","55036","Blancan","","4.9","1.8","66358"
-"1412119","occ","","","98315","Gopherus polyphemus","species","55036","Blancan","","4.9","1.8","66358"
-"1412120","occ","","","20351","Gopherus polyphemus","species","55036","Irvingtonian","","1.8","0.3","66358"
-"1412121","occ","","","26550","Gopherus polyphemus","species","55036","Irvingtonian","","1.8","0.3","66358"
-"1412122","occ","","","20524","Gopherus polyphemus","species","55036","Irvingtonian","","1.8","0.3","66358"
-"1412123","occ","","","20594","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","66358"
-"1412134","occ","","","20398","Gopherus polyphemus","species","55036","Rancholabrean","","0.3","0.012","66358"
-"1412135","occ","","","164396","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","66358"
-"1412137","occ","","","77590","Gopherus polyphemus","species","55036","Pleistocene","","2.588","0.0117","66358"
-"1412138","occ","","","122303","Gopherus polyphemus","species","55036","Holocene","","0.0117","0","66358"
-"1412139","occ","","","100344","Gopherus polyphemus","species","55036","Holocene","","0.0117","0","66358"
-"1412140","occ","","","100349","Gopherus polyphemus","species","55036","Holocene","","0.0117","0","66358"
-"1412141","occ","","","100347","Gopherus polyphemus","species","55036","Holocene","","0.0117","0","66358"
-"1412142","occ","","","100346","Gopherus polyphemus","species","55036","Holocene","","0.0117","0","66358"
-"1412242","occ","","","20289","Gopherus polyphemus","species","55036","Irvingtonian","","1.8","0.3","66358"
-"1412246","occ","","","195110","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","66358"
-"1412247","occ","","","195111","Gopherus polyphemus","species","55036","Late Pleistocene","","0.126","0.0117","66358"
-"1412248","occ","","","195112","Gopherus polyphemus","species","55036","Rancholabrean","","0.3","0.012","66358"
-"1412249","occ","","","195113","Gopherus polyphemus","species","55036","Rancholabrean","","0.3","0.012","66358"
-"1413033","occ","","","195221","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","66368"
-"1413252","occ","","","175900","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","66368"
-"1413274","occ","","","190860","Testudo graeca","species","364325","Pleistocene","","2.588","0.0117","66368"
-"1413587","occ","","","195261","Testudo graeca","species","364325","Pleistocene","","2.588","0.0117","66478"
-"1413632","occ","","","195273","Testudo kenitrensis","species","388620","Late Pliocene","","3.6","2.588","66482"
-"1413634","occ","","","146601","Namibchersus namaquensis","species","203528","Early Miocene","","23.03","15.97","66485"
-"1413649","occ","","","168036","Namibchersus namaquensis","species","203528","Early Miocene","","23.03","15.97","66484"
-"1413662","occ","","","195282","Homopus fenestratus","species","374266","Neogene","","23.03","2.588","66489"
-"1413663","occ","","","183152","Psammobates antiquorum","species","374267","Early Pleistocene","","2.588","0.781","66490"
-"1413677","occ","","","194074","Testudo indica","species","382658","Holocene","","0.0117","0","66500"
-"1413686","occ","","","195283","Testudo shensiensis","species","364329","Late Miocene","","11.608","5.333","44012"
-"1413691","occ","","","195284","Testudo sphaerica","species","341268","Late Miocene","","11.608","5.333","44012"
-"1413692","occ","","","179050","Testudo shansiensis","species","341266","Late Miocene","","11.608","5.333","44012"
-"1413703","occ","","","195285","Testudo hipparionum","species","341264","Late Miocene","","11.608","5.333","44012"
-"1413716","occ","","","195286","Testudo honanensis","species","341267","Late Miocene","","11.608","5.333","44012"
-"1414067","occ","","","195408","Hesperotestudo osborniana","species","121689","Harrisonian","","24.8","20.43","64765"
-"1414068","occ","","","17152","Stylemys nebrascensis","species","235294","Orellan","","33.9","33.3","64803"
-"1414073","occ","","","195410","Hesperotestudo turgida","species","121672","Pleistocene","","2.588","0.0117","64327"
-"1414313","occ","","","42273","Kansuchelys ovalis","species","341252","Ruscinian","","5.333","3.2","64237"
-"1414496","occ","","","192670","Geochelone kalganensis","species","121683","Tertiary","","66","2.588","64237"
-"1414497","occ","","","42273","Testudo shensiensis","species","364329","Ruscinian","","5.333","3.2","64237"
-"1414498","occ","","","42273","Testudo shensiensis","species","364329","Ruscinian","","5.333","3.2","64237"
-"1414499","occ","","","42273","Testudo sphaerica","species","341268","Ruscinian","","5.333","3.2","64237"
-"1414500","occ","","","42273","Testudo shansiensis","species","341266","Ruscinian","","5.333","3.2","64237"
-"1414501","occ","","","42273","Testudo honanensis","species","341267","Ruscinian","","5.333","3.2","64237"
-"1414502","occ","","","179049","Testudo honanensis","species","341267","Miocene","","23.03","5.333","64237"
-"1414781","occ","","","195517","Chelonoidis dominicensis","species","374950","Quaternary","","2.588","0","66550"
-"1414974","occ","","","195564","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","66563"
-"1414980","occ","","","56733","Testudo graeca","species","364325","Early Pleistocene","","2.588","0.781","66565"
-"1416637","occ","","","93517","Megalochelys sivalensis","species","375519","Early Pleistocene","","2.588","0.781","66692"
-"1416639","occ","","","93697","Testudo margae","species","358990","Pleistocene","","2.588","0.0117","66693"
-"1416864","occ","","","195987","Megalochelys sivalensis","species","375519","Pleistocene","","2.588","0.0117","66702"
-"1416883","occ","","","92070","Megalochelys sivalensis","species","375519","Pliocene","","5.333","2.588","66703"
-"1416884","occ","","","92070","Megalochelys sivalensis","species","375519","Pliocene","","5.333","2.588","66704"
-"1417094","occ","","","190386","Hesperotestudo crassiscutata","species","173079","Miocene","","23.03","5.333","54433"
-"1417095","occ","","","196056","Hesperotestudo crassiscutata","species","173079","Pleistocene","","2.588","0.0117","54433"
-"1419103","occ","","","196664","Gopherus hexagonatus","species","105238","Late Pleistocene","","0.126","0.0117","66907"
-"1419104","occ","","","196665","Gopherus hexagonatus","species","105238","Late Pleistocene","","0.126","0.0117","66907"
-"1419105","occ","","","196666","Gopherus hexagonatus","species","105238","Late Pleistocene","","0.126","0.0117","66907"
-"1419106","occ","","","196667","Gopherus hexagonatus","species","105238","Late Pleistocene","","0.126","0.0117","66907"
-"1422160","occ","","","197471","Stylemys bottii","species","105290","Miocene","","23.03","5.333","67341"
-"1426066","occ","","","198240","Stylemys karakolensis","species","105292","Oligocene","","33.9","23.03","67535"
-"1426386","occ","","","180339","Hesperotestudo crassiscutata","species","173079","Rancholabrean","","0.3","0.012","67564"
-"1427517","occ","","","92070","Cachuga tectum","species","235424","Pliocene","","5.333","2.588","41531"
-"1427519","occ","","","122872","Homopus scutella","species","235279","Sarmatian","","12.7","11.608","41531"
-"1427520","occ","","","167274","Homopus comptoni","species","235281","Ypresian","","56","47.8","41531"
-"1427521","occ","","","92070","Testudo atlas","species","235272","Pliocene","","5.333","2.588","41531"
-"1427522","occ","","","92070","Testudo cautleyi","species","235273","Pliocene","","5.333","2.588","41531"
-"1427523","occ","","","92070","Megalochelys sivalensis","species","375519","Pliocene","","5.333","2.588","41531"
-"1427525","occ","","","198589","Testudo escheri","species","235276","Middle Miocene","","15.97","11.608","41531"
-"1427526","occ","","","32191","Testudo larteti","species","235277","Langhian","Serravallian","15.97","11.62","41531"
-"1427527","occ","","","125333","Testudo eurysternum","species","235278","Aquitanian","","23.03","20.44","41531"
-"1427539","occ","","","198590","Testudo cernovi","species","238489","Early Pliocene","","5.333","3.6","67604"
-"1427893","occ","","","113998","Testudo craverii","species","365832","Messinian","","7.246","5.333","67605"
-"1427931","occ","","","70902","Sinohadrianus ezoensis","species","365780","Lutetian","","47.8","41.3","67635"
-"1427972","occ","","","49101","Testudo antiqua","species","364327","Burdigalian","","20.44","15.97","67646"
-"1427973","occ","","","106003","Testudo kalksburgensis","species","380346","Burdigalian","Langhian","20.44","13.82","67646"
-"1427985","occ","","","198614","Testudo antiqua","species","364327","Burdigalian","","20.44","15.97","67646"
-"1427986","occ","","","198614","Testudo kalksburgensis","species","380346","Burdigalian","","20.44","15.97","67646"
-"1427988","occ","","","198616","Testudo escheri","species","235276","Serravallian","","13.82","11.62","67647"
-"1427991","occ","","","198616","Titanochelon vitodurana","species","380347","Serravallian","","13.82","11.62","67647"
-"1427992","occ","","","198617","Titanochelon vitodurana","species","380347","Serravallian","","13.82","11.62","67647"
-"1429332","occ","","","198863","Chelonoidis australis","species","351849","Montehermosan","","6.8","4","67741"
-"1431371","occ","","","175587","Testudo steinheimensis","species","430087","Sarmatian","","12.7","11.608","67851"
-"1431372","occ","","","175587","Testudo kalksburgensis","species","380346","Sarmatian","","12.7","11.608","67851"
-"1431977","occ","39534","","199755","Testudo lohanica","species","453923","Tortonian","","11.62","7.246","80993"
-"1436133","occ","","","200360","Titanochelon gymnesica","species","358119","Late Pliocene","Early Pleistocene","3.6","0.781","68384"
-"1446763","occ","","","201933","Indotestudo elongata","species","376557","Holocene","","0.0117","0","69159"
-"1446764","occ","","","201933","Manouria emys","species","376559","Holocene","","0.0117","0","69159"
-"1446778","occ","","","201936","Indotestudo elongata","species","376557","Holocene","","0.0117","0","69159"
-"1448679","occ","36844","","202120","Titanochelon schafferi","species","347950","Late Miocene","","11.608","5.333","72007"
-"1449153","occ","","","202213","Testudo marmorum","species","347955","Turolian","","8.7","5.333","69294"
-"1450052","occ","","","202324","Testudo kenitrensis","species","388620","Middle Pleistocene","","0.781","0.126","69329"
-"1450074","occ","","","202329","Chersine hermanni","species","94333","Pleistocene","","2.588","0.0117","65163"
-"1452840","occ","36842","","202630","Testudo marmorum","species","347955","Late Miocene","","11.608","5.333","72005"
-"1461443","occ","","","203955","Chelonoidis denticulata","species","132770","Lujanian","","0.781","0.012","69906"
-"1463347","occ","","","204220","Paleotestudo antiqua","species","358124","Middle Miocene","","15.97","11.608","69992"
-"1463348","occ","","","201475","Paleotestudo antiqua","species","358124","Miocene","","23.03","5.333","69991"
-"1463349","occ","","","190006","Paleotestudo antiqua","species","358124","Middle Miocene","Late Miocene","15.97","5.333","69991"
-"1463350","occ","","","92640","Paleotestudo antiqua","species","358124","MN 7 + 8","","12.75","11.1","69991"
-"1463351","occ","","","204221","Paleotestudo antiqua","species","358124","Middle Miocene","","15.97","11.608","69991"
-"1463352","occ","","","204222","Paleotestudo antiqua","species","358124","Middle Miocene","","15.97","11.608","69991"
-"1463353","occ","","","204223","Paleotestudo antiqua","species","358124","Middle Miocene","","15.97","11.608","69991"
-"1463354","occ","","","204224","Paleotestudo antiqua","species","358124","Middle Miocene","","15.97","11.608","69991"
-"1467631","occ","","","78514","Paleotestudo antiqua","species","358124","MN 10","","9.7","8.7","70350"
-"1467635","occ","","","204958","Paleotestudo antiqua","species","358124","MN 10","","9.7","8.7","70350"
-"1469252","occ","","","205232","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469253","occ","","","205231","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469255","occ","","","205230","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469262","occ","","","205229","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469263","occ","","","205228","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469264","occ","","","205227","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469265","occ","","","205226","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1469266","occ","","","205225","Chersine hermanni","species","94333","Calabrian","","1.806","0.781","70426"
-"1470027","occ","","","205285","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","70429"
-"1470029","occ","","","205286","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","70429"
-"1470031","occ","","","205288","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","70429"
-"1470033","occ","","","122309","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","70429"
-"1470382","occ","","","205351","Testudo marmorum","species","347955","Turolian","","8.7","5.333","70452"
-"1472770","occ","","","145897","Chelonoidis gringorum","species","105264","Colhuehuapian","","21","17.5","64145"
-"1474082","occ","","","205815","Titanochelon bolivari","species","268040","Burdigalian","","20.44","15.97","70584"
-"1477685","occ","","","206108","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477688","occ","","","206109","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477689","occ","","","206110","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477690","occ","","","206111","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477691","occ","","","206112","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477692","occ","","","206113","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477694","occ","","","206114","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477695","occ","","","206115","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477696","occ","","","206116","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477697","occ","","","206117","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477698","occ","","","206118","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477699","occ","","","206119","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477700","occ","","","206120","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477701","occ","","","206122","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477702","occ","","","206123","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477703","occ","","","206124","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477704","occ","","","206125","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477705","occ","","","206126","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477706","occ","","","206127","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477712","occ","","","206128","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477713","occ","","","206129","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477714","occ","","","206130","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1477715","occ","","","206131","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","62539"
-"1479561","occ","","","206227","Gopherus polyphemus","species","55036","Pleistocene","","2.588","0.0117","70774"
-"1485434","occ","","","167995","Protestudo bessarabica","species","383995","MN 12","","7.75","7.246","71048"
-"1494416","occ","","","197674","Titanochelon bolivari","species","268040","Middle Miocene","","15.97","11.608","71661"
-"1497233","occ","","","68914","Paleotestudo antiqua","species","358124","MN 11","","8.7","7.75","71915"
-"1497234","occ","","","68914","Titanochelon bolivari","species","268040","MN 11","","8.7","7.75","71915"
-"1497236","occ","","","208187","Titanochelon bolivari","species","268040","Middle Miocene","","15.97","11.608","71916"
-"1498466","occ","","","208499","Chelonoidis gringorum","species","105264","Early Miocene","","23.03","15.97","71994"
-"1498467","occ","","","208500","Chelonoidis gringorum","species","105264","Early Miocene","","23.03","15.97","71994"
-"1498468","occ","","","208501","Chelonoidis gringorum","species","105264","Early Miocene","","23.03","15.97","71994"
-"1498469","occ","","","208502","Chelonoidis gringorum","species","105264","Early Miocene","","23.03","15.97","71994"
-"1498470","occ","","","208503","Chelonoidis gringorum","species","105264","Early Miocene","","23.03","15.97","71994"
-"1498475","occ","","","208506","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","71994"
-"1498476","occ","","","208507","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","71994"
-"1498477","occ","","","208508","Chelonoidis gringorum","species","105264","Middle Miocene","","15.97","11.608","71994"
-"1498782","occ","","","208566","Testudo marmorum","species","347955","Turolian","","8.7","5.333","72006"
-"1498810","occ","","","208567","Testudo marmorum","species","347955","Turolian","","8.7","5.333","72006"
-"1498838","occ","","","208568","Testudo marmorum","species","347955","Turolian","","8.7","5.333","72006"
-"1498861","occ","","","208569","Testudo marmorum","species","347955","Turolian","","8.7","5.333","72006"
-"1498863","occ","","","208570","Testudo antiqua","species","364327","Late Miocene","","11.608","5.333","72007"
-"1498864","occ","","","95691","Titanochelon schafferi","species","347950","Messinian","","7.246","5.333","72007"
-"1498865","occ","","","95690","Titanochelon schafferi","species","347950","Messinian","","7.246","5.333","72007"
-"1498872","occ","","","208572","Centrochelys vulcanica","species","413868","Pliocene","","5.333","2.588","72012"
-"1499775","occ","","","191070","Testudo hellenica","species","414403","Vallesian","","11.608","8.7","72042"
-"1500087","occ","","","208787","Chersine hermanni","species","94333","Holocene","","0.0117","0","72065"
-"1513790","occ","","","211245","Chelonoidis carbonarius","species","242701","Pleistocene","","2.588","0.0117","72932"
-"1513791","occ","","","211246","Centrochelys burchardi","species","422829","Middle Pleistocene","","0.781","0.126","72933"
-"1513792","occ","","","211247","Centrochelys punica","species","422830","Early Pliocene","","5.333","3.6","79068"
-"1525204","occ","","","144173","Geochelone pardalis","species","376119","Gelasian","Calabrian","2.588","0.781","66491"
-"1525205","occ","","","22593","Geochelone pardalis","species","376119","Gelasian","","2.588","1.806","66491"
-"1537698","occ","","","50916","Chersine khosatzkyi","species","429671","MN 15","","4.2","3.2","74606"
-"1538695","occ","","","144047","Paleotestudo mellingi","species","430088","Langhian","","15.97","13.82","74675"
-"1541206","occ","","","184395","Protestudo bessarabica","species","383995","Late Miocene","","11.608","5.333","74972"
-"1542087","occ","","","18123","Geochelone (Hesperotestudo) orthopygia","species","110639","Barstovian","","15.97","13.6","75143"
-"1545276","occ","","","217467","Titanochelon bolivari","species","268040","Burdigalian","","20.44","15.97","75533"
-"1545278","occ","","","217466","Titanochelon bolivari","species","268040","Burdigalian","","20.44","15.97","75533"
-"1554576","occ","","","24201","Palaeoemys hessiaca","species","338751","MP 13","","48.6","40.4","76228"
-"1554580","occ","","","24201","Pelorochelon eocaenica","species","132786","MP 13","","48.6","40.4","76228"
-"1554582","occ","","","24201","Eochersis eiflaensis","species","435361","MP 13","","48.6","40.4","76228"
-"1560124","occ","","","181100","Testudo lamanonii","species","437593","Oligocene","Early Miocene","33.9","15.97","63677"
-"1560129","occ","","","31747","Testudo lamanonii","species","437593","Priabonian","","38","33.9","12784"
-"1568133","occ","","","221412","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","77543"
-"1568150","occ","","","221413","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","77543"
-"1568159","occ","","","221414","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","77543"
-"1568174","occ","","","221415","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","77543"
-"1568203","occ","","","221416","Chersine hermanni","species","94333","Late Pleistocene","","0.126","0.0117","77543"
-"1568223","occ","","","221420","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","77543"
-"1568250","occ","","","221422","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","77543"
-"1568265","occ","","","221424","Chersine hermanni","species","94333","Middle Pleistocene","","0.781","0.126","77543"
-"1578371","occ","","","190142","Testudo kalksburgensis","species","380346","Orleanian","","20","15.97","78407"
-"1578373","occ","","","200140","Testudo kalksburgensis","species","380346","Orleanian","","20","15.97","78407"
-"1578376","occ","","","222819","Testudo kalksburgensis","species","380346","Orleanian","","20","15.97","78407"
-"1578378","occ","","","222818","Testudo kalksburgensis","species","380346","Orleanian","","20","15.97","78407"
-"1578380","occ","","","222817","Testudo kalksburgensis","species","380346","Orleanian","","20","15.97","78407"
-"1578481","occ","","","53970","Namibchersus namaquensis","species","203528","MN 4","","16.9","15.97","78416"
-"1581319","occ","","","20280","Gopherus agassizii","species","105217","Irvingtonian","","1.8","0.3","78568"
-"1584839","occ","","","223987","Chelonoidis petrocellii","species","446396","Middle Pleistocene","","0.781","0.126","78914"
-"1587288","occ","","","224295","Indotestudo forstenii","species","376558","Late Pliocene","","3.6","2.588","79680"
-"1595571","occ","","","225602","Hesperotestudo harrisi","species","456349","Barstovian","","15.97","13.6","81718"
+occurrence_no,record_type,reid_no,flags,collection_no,accepted_name,accepted_rank,accepted_no,early_interval,late_interval,max_ma,min_ma,reference_no
+1364123,occ,36520,,185681,Alatochelon myrteum,species,403966,Early Pliocene,,5.333,3.6,71499
+1391144,occ,,,191365,Aldabrachelys gigantea,species,365355,Late Pleistocene,,0.126,0.0117,64549
+1396849,occ,,,192429,Aldabrachelys gigantea,species,365355,Late Pleistocene,,0.126,0.0117,65136
+1109176,occ,32377,,132945,Anhuichelys doumuensis,species,341249,Middle Paleocene,,61.7,58.7,59242
+1329845,occ,,,132939,Anhuichelys doumuensis,species,341249,Middle Paleocene,,61.7,58.7,59242
+1329846,occ,,,179041,Anhuichelys doumuensis,species,341249,Middle Paleocene,,61.7,58.7,59242
+1329847,occ,,,179042,Anhuichelys doumuensis,species,341249,Middle Paleocene,,61.7,58.7,59242
+1109177,occ,,,140377,Anhuichelys siaoshihensis,species,261149,Early Paleocene,,66,61.7,45440
+1329832,occ,,,132946,Anhuichelys siaoshihensis,species,261149,Early Paleocene,,66,61.7,59242
+1329834,occ,,,179035,Anhuichelys siaoshihensis,species,261149,Early Paleocene,,66,61.7,59242
+1109174,occ,,,132942,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,45440
+1329041,occ,,,178873,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59336
+1329837,occ,,,179036,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1329839,occ,,,132939,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1329840,occ,,,179037,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1329841,occ,,,179038,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1329842,occ,,,179039,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1329843,occ,,,179040,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1329844,occ,,,179025,Anhuichelys tsienshanensis,species,261150,Middle Paleocene,,61.7,58.7,59242
+1427517,occ,,,92070,Cachuga tectum,species,235424,Pliocene,,5.333,2.588,41531
+1513791,occ,,,211246,Centrochelys burchardi,species,422829,Middle Pleistocene,,0.781,0.126,72933
+339367,occ,35058,,32054,Centrochelys marocana,species,374258,Late Pliocene,,3.6,2.588,66482
+971760,occ,35060,,32052,Centrochelys marocana,species,374258,Late Pliocene,,3.6,2.588,66482
+1513792,occ,,,211247,Centrochelys punica,species,422830,Early Pliocene,,5.333,3.6,79068
+1498872,occ,,,208572,Centrochelys vulcanica,species,413868,Pliocene,,5.333,2.588,72012
+1338747,occ,,,31586,Cheirogaster maurini,species,347872,Priabonian,,38,33.9,60047
+1135676,occ,34346,,144662,Chelonoidis alburyorum,species,364321,Holocene,,0.0117,0,64123
+1387548,occ,37192,,190751,Chelonoidis alburyorum,species,364321,Holocene,,0.0117,0,73285
+1387549,occ,37193,,190750,Chelonoidis alburyorum,species,364321,Late Pleistocene,Holocene,0.126,0,73285
+1180254,occ,,,152062,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,48757
+1180410,occ,,,152081,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,48790
+1180488,occ,,,152084,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,48790
+1180501,occ,,,152085,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,48790
+1361680,occ,,,13503,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,62131
+1388168,occ,,,13503,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,63683
+1388300,occ,,,13503,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,64147
+1429332,occ,,,198863,Chelonoidis australis,species,351849,Montehermosan,,6.8,4,67741
+1391672,occ,,,149143,Chelonoidis carbonarius,species,242701,Late Pleistocene,,0.126,0.0117,64607
+1513790,occ,,,211245,Chelonoidis carbonarius,species,242701,Pleistocene,,2.588,0.0117,72932
+1374623,occ,,,187627,Chelonoidis chilensis,species,242702,Holocene,,0.0117,0,62994
+1382892,occ,,,189509,Chelonoidis chilensis,species,242702,Montehermosan,Chapadmalalan,6.8,3,42415
+1382894,occ,,,189512,Chelonoidis chilensis,species,242702,Lujanian,,0.781,0.12,42415
+1132811,occ,,,37703,Chelonoidis cubensis,species,174457,Pleistocene,,2.588,0.0117,34633
+1387193,occ,,,190669,Chelonoidis cubensis,species,174457,Pleistocene,,2.588,0.0117,64089
+1387194,occ,,,190670,Chelonoidis cubensis,species,174457,Pleistocene,,2.588,0.0117,64089
+1412055,occ,,,153777,Chelonoidis cubensis,species,174457,Late Pleistocene,Holocene,0.126,0,66345
+1374646,occ,,,187629,Chelonoidis denticulata,species,132770,Late Pleistocene,,0.126,0.0117,62997
+1461443,occ,,,203955,Chelonoidis denticulata,species,132770,Lujanian,,0.781,0.12,69906
+1414781,occ,,,195517,Chelonoidis dominicensis,species,374950,Quaternary,,2.588,0,66550
+1363256,occ,,,185519,Chelonoidis gallardoi,species,105267,Late Pleistocene,,0.126,0.0117,62199
+1382931,occ,34146,,157795,Chelonoidis gallardoi,species,105267,Montehermosan,Chapadmalalan,6.8,3,42415
+1603565,occ,,,226736,Chelonoidis gersoni,species,460930,Late Pleistocene,,0.126,0.0117,82256
+1603566,occ,,,226735,Chelonoidis gersoni,species,460930,Late Pleistocene,,0.126,0.0117,82256
+1603567,occ,,,186696,Chelonoidis gersoni,species,460930,Late Pleistocene,Holocene,0.126,0,82256
+691633,occ,34139,,74499,Chelonoidis gringorum,species,105264,Early Miocene,,23.03,15.97,42415
+811686,occ,34141,,89093,Chelonoidis gringorum,species,105264,Colhuehuapian,,21,17.5,42415
+1368254,occ,,,186559,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1368255,occ,,,186560,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1368256,occ,,,186561,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1368257,occ,,,186562,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1382898,occ,,,74646,Chelonoidis gringorum,species,105264,Colloncuran,,15.5,13.8,42415
+1388167,occ,,,27311,Chelonoidis gringorum,species,105264,Colhuehuapian,,21,17.5,64130
+1472770,occ,,,145897,Chelonoidis gringorum,species,105264,Colhuehuapian,,21,17.5,64145
+1477685,occ,,,206108,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477688,occ,,,206109,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477689,occ,,,206110,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477690,occ,,,206111,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477691,occ,,,206112,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477692,occ,,,206113,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477694,occ,,,206114,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477695,occ,,,206115,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477696,occ,,,206116,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477697,occ,,,206117,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477698,occ,,,206118,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477699,occ,,,206119,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477700,occ,,,206120,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477701,occ,,,206122,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477702,occ,,,206123,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477703,occ,,,206124,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477704,occ,,,206125,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477705,occ,,,206126,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477706,occ,,,206127,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477712,occ,,,206128,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477713,occ,,,206129,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477714,occ,,,206130,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1477715,occ,,,206131,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,62539
+1498466,occ,,,208499,Chelonoidis gringorum,species,105264,Early Miocene,,23.03,15.97,71994
+1498467,occ,,,208500,Chelonoidis gringorum,species,105264,Early Miocene,,23.03,15.97,71994
+1498468,occ,,,208501,Chelonoidis gringorum,species,105264,Early Miocene,,23.03,15.97,71994
+1498469,occ,,,208502,Chelonoidis gringorum,species,105264,Early Miocene,,23.03,15.97,71994
+1498470,occ,,,208503,Chelonoidis gringorum,species,105264,Early Miocene,,23.03,15.97,71994
+1498475,occ,,,208506,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,71994
+1498476,occ,,,208507,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,71994
+1498477,occ,,,208508,Chelonoidis gringorum,species,105264,Middle Miocene,,15.97,11.608,71994
+1599772,occ,,,197691,Chelonoidis gringorum,species,105264,Burdigalian,Langhian,20.44,13.82,81908
+779817,occ,,,83868,Chelonoidis hesterna,species,132767,Late Miocene,,11.608,5.333,703
+1374642,occ,,,106304,Chelonoidis lutzae,species,358438,Lujanian,,0.781,0.12,62995
+293867,occ,33510,,28042,Chelonoidis marcanoi,species,356324,Quaternary,,2.588,0,62617
+1369021,occ,,,186694,Chelonoidis marcanoi,species,356324,Late Pleistocene,Holocene,0.126,0,62617
+1369022,occ,,,186695,Chelonoidis marcanoi,species,356324,Late Pleistocene,Holocene,0.126,0,62617
+1369036,occ,,,186696,Chelonoidis marcanoi,species,356324,Late Pleistocene,Holocene,0.126,0,62617
+1369047,occ,,,186697,Chelonoidis marcanoi,species,356324,Late Pleistocene,Holocene,0.126,0,62617
+1369059,occ,,,186698,Chelonoidis marcanoi,species,356324,Late Pleistocene,Holocene,0.126,0,62617
+1606462,occ,,,227148,Chelonoidis meridiana,species,462002,Langhian,Serravallian,15.97,11.62,82613
+1387353,occ,,,190712,Chelonoidis monensis,species,364281,Holocene,,0.0117,0,64100
+1387354,occ,,,190713,Chelonoidis monensis,species,364281,Holocene,,0.0117,0,64100
+1387355,occ,,,190714,Chelonoidis monensis,species,364281,Holocene,,0.0117,0,64100
+1584839,occ,,,223987,Chelonoidis petrocellii,species,446396,Middle Pleistocene,,0.781,0.126,78914
+583618,occ,,,21695,Chersina angulata,species,373908,Pleistocene,,2.588,0.0117,17685
+970956,occ,,,115188,Chersina angulata,species,373908,Middle Pleistocene,,0.781,0.126,37305
+970989,occ,,,115191,Chersina angulata,species,373908,Pleistocene,,2.588,0.0117,37306
+971085,occ,,,115205,Chersina angulata,species,373908,Pleistocene,,2.588,0.0117,37314
+971266,occ,,,115225,Chersina angulata,species,373908,Late Pleistocene,,0.126,0.0117,37211
+1537698,occ,,,50916,Chersine khosatzkyi,species,429671,MN 15,,4.2,3.2,74606
+1405782,occ,,,194169,Cylindraspis inepta,species,377726,Holocene,,0.0117,0,65931
+1405781,occ,,,194169,Cylindraspis triserrata,species,377728,Holocene,,0.0117,0,65931
+1554582,occ,,,24201,Eochersis eiflaensis,species,435361,MP 13,,48.6,40.4,76228
+1342841,occ,,,37208,Ergilemys bruneti,species,347700,MP 29,,28.4,23.03,60047
+684785,occ,,,73781,Ergilemys insolitus,species,104273,Late Eocene,,37.2,33.9,24732
+1046732,occ,,,128691,Ergilemys insolitus,species,104273,Late Eocene,,37.2,33.9,42016
+1046733,occ,,,128692,Ergilemys insolitus,species,104273,Early Oligocene,,33.9,28.4,42016
+898049,occ,,,99792,Floridemys nana,species,173133,Late Miocene,,11.608,5.333,34299
+1334955,occ,,,78236,Fontainechelon cassouleti,species,344582,Ypresian,,56,47.8,59712
+1348052,occ,,,182641,Fontainechelon cassouleti,species,344582,Ypresian,,56,47.8,60846
+287364,occ,,,18001,Geochelone (Hesperotestudo) angusticeps,species,119614,Hemingfordian,,20.43,15.97,3175
+286966,occ,,,18284,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,25657
+287337,occ,,,18442,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,7565
+287348,occ,,,18165,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,7565
+287821,occ,,,18223,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,712
+288800,occ,,,18450,Hesperotestudo orthopygia,species,110639,Clarendonian,,13.6,10.3,7593
+288830,occ,,,18275,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,725
+289362,occ,,,18141,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,705
+1542087,occ,,,18123,Hesperotestudo orthopygia,species,110639,Barstovian,,15.97,13.6,75143
+709892,occ,,,76059,Hesperotestudo turgida,species,119613,Late Pleistocene,,0.126,0.0117,25748
+711068,occ,,,76101,Hesperotestudo turgida,species,119613,Late Pleistocene,,0.126,0.0117,726
+740564,occ,,,79632,Hesperotestudo turgida,species,119613,Late Pleistocene,,0.126,0.0117,26749
+1393415,occ,,,18579,Hesperotestudo turgida,species,119613,Burdigalian,,20.44,15.97,64777
+1393418,occ,,,167203,Hesperotestudo turgida,species,119613,Late Oligocene,,28.4,23.03,64777
+1387539,occ,,,190746,Chelonoidis carbonarius,species,132768,Late Pleistocene,,0.126,0.0117,64117
+1046734,occ,,,73781,Geochelone demissa,species,172495,Late Eocene,,37.2,33.9,34192
+1388304,occ,,,190844,Geochelone elephantopus,species,132774,Holocene,,0.0117,0,64148
+1388323,occ,,,190845,Geochelone elephantopus,species,132774,Holocene,,0.0117,0,64148
+1388337,occ,,,190847,Geochelone elephantopus,species,132774,Holocene,,0.0117,0,64148
+1388354,occ,,,190846,Geochelone elephantopus,species,132774,Holocene,,0.0117,0,64148
+1414496,occ,,,192670,Geochelone kalganensis,species,121683,Tertiary,,66,2.588,64237
+224584,occ,,,21795,Geochelone laetoliensis,species,374268,Piacenzian,,3.6,2.588,4451
+224620,occ,,,21798,Geochelone laetoliensis,species,374268,Piacenzian,,3.6,2.588,4451
+224643,occ,,,21799,Geochelone laetoliensis,species,374268,Piacenzian,,3.6,2.588,4451
+224693,occ,,,21801,Geochelone laetoliensis,species,374268,Piacenzian,,3.6,2.588,4451
+225377,occ,,,21831,Geochelone laetoliensis,species,374268,Piacenzian,,3.6,2.588,4451
+339223,occ,,,32050,Geochelone laetoliensis,species,374268,Pliocene,,5.333,2.588,4451
+1046736,occ,,,128693,Geochelone oskarkuhni,species,238692,Pliocene,,5.333,2.588,42016
+228947,occ,,,22548,Geochelone pardalis,species,376119,Pleistocene,Holocene,2.588,0,5633
+1525204,occ,,,144173,Geochelone pardalis,species,376119,Gelasian,Calabrian,2.588,0.781,66491
+1525205,occ,,,22593,Geochelone pardalis,species,376119,Gelasian,,2.588,1.806,66491
+834592,occ,,,92732,Geochelone radiata,species,376121,Holocene,,0.0117,0,31261
+835249,occ,,,92733,Geochelone radiata,species,376121,Holocene,,0.0117,0,31261
+227685,occ,,,22232,Geochelone stromeri,species,203530,Miocene,Pliocene,23.03,2.588,4924
+225661,occ,,,21902,Geochelone sulcata,species,376122,Holocene,,0.0117,0,5230
+226150,occ,,,21958,Geochelone sulcata,species,376122,Holocene,,0.0117,0,5230
+295353,occ,,,28254,Geochelone sulcata,species,376122,Late Miocene,,11.608,5.333,7702
+295359,occ,,,28259,Geochelone sulcata,species,376122,Late Miocene,,11.608,5.333,7702
+295364,occ,,,28265,Geochelone sulcata,species,376122,Late Miocene,,11.608,5.333,7702
+295371,occ,,,28271,Geochelone sulcata,species,376122,Late Miocene,,11.608,5.333,7702
+295374,occ,,,28278,Geochelone sulcata,species,376122,Late Miocene,,11.608,5.333,7702
+487203,occ,,,48858,Geochelone sulcata,species,376122,Pleistocene,,2.588,0.0117,13025
+217875,occ,,,22234,Gigantochersina ammon,species,86271,Zanclean,,5.333,3.6,4648
+613759,occ,,,65960,Gigantochersina ammon,species,86271,Rupelian,,33.9,28.1,66233
+613760,occ,,,65960,Gigantochersina ammon,species,86271,Rupelian,,33.9,28.1,11955
+1258325,occ,,,166979,Gigantochersina ammon,species,86271,Rupelian,,33.9,28.1,28104
+709891,occ,,,76059,Gopherus agassizii,species,105217,Late Pleistocene,,0.126,0.0117,25748
+897421,occ,,,99599,Gopherus agassizii,species,105217,Late Pleistocene,,0.126,0.0117,697
+897422,occ,,,99600,Gopherus agassizii,species,105217,Late Pleistocene,,0.126,0.0117,697
+897423,occ,,,99601,Gopherus agassizii,species,105217,Late Pleistocene,,0.126,0.0117,697
+897424,occ,,,99602,Gopherus agassizii,species,105217,Late Pleistocene,,0.126,0.0117,697
+1581319,occ,,,20280,Gopherus agassizii,species,105217,Irvingtonian,,1.8,0.3,78568
+1393426,occ,,,20283,Gopherus auffenbergi,species,105219,Irvingtonian,,1.8,0.3,64779
+1393427,occ,,,20283,Gopherus auffenbergi,species,105219,Irvingtonian,,1.8,0.3,64780
+1604659,occ,,,226915,Gopherus berlandieri,species,105218,Late Pleistocene,,0.126,0.0117,82358
+1393308,occ,,,191902,Gopherus brevisternus,species,105220,Arikareean,,30.8,20.43,64765
+897419,occ,,,19197,Gopherus depressus,species,105233,Hemingfordian,Barstovian,20.43,13.6,697
+1393423,occ,,,19235,Gopherus depressus,species,105233,Hemingfordian,Barstovian,20.43,13.6,759
+691628,occ,,,74498,Gopherus donlaloi,species,105212,Rancholabrean,,0.3,0.12,24994
+1389048,occ,,,19073,Gopherus edae,species,105236,Hemingfordian,,20.43,15.97,64367
+1389057,occ,,,19074,Gopherus edae,species,105236,Hemingfordian,,20.43,15.97,64367
+1393311,occ,,,191903,Gopherus edae,species,105236,Harrisonian,,24.8,20.43,64739
+1393546,occ,,,191836,Gopherus edae,species,105236,Hemingfordian,Barstovian,20.43,13.6,14442
+1393556,occ,,,191921,Gopherus edae,species,105236,Barstovian,,15.97,13.6,14442
+219957,occ,,,22642,Gopherus hexagonatus,species,105238,Pleistocene,,2.588,0.0117,5717
+898197,occ,,,99817,Gopherus hexagonatus,species,105238,Late Pliocene,,3.6,2.588,34313
+898201,occ,,,20033,Gopherus hexagonatus,species,105238,Blancan,,4.9,1.8,34314
+1393424,occ,,,20037,Gopherus hexagonatus,species,105238,Blancan,,4.9,1.8,3326
+1393519,occ,,,191451,Gopherus hexagonatus,species,105238,Late Pliocene,,3.6,2.588,14442
+1419103,occ,,,196664,Gopherus hexagonatus,species,105238,Late Pleistocene,,0.126,0.0117,66907
+1419104,occ,,,196665,Gopherus hexagonatus,species,105238,Late Pleistocene,,0.126,0.0117,66907
+1419105,occ,,,196666,Gopherus hexagonatus,species,105238,Late Pleistocene,,0.126,0.0117,66907
+1419106,occ,,,196667,Gopherus hexagonatus,species,105238,Late Pleistocene,,0.126,0.0117,66907
+897398,occ,,,99590,Gopherus laticuneus,species,173229,Orellan,,33.9,33.3,34254
+897400,occ,,,99591,Gopherus laticuneus,species,173229,Chadronian,,37.2,33.9,34254
+897402,occ,,,99592,Gopherus laticuneus,species,173229,Orellan,,33.9,33.3,34254
+897404,occ,,,99593,Gopherus laticuneus,species,173229,Chadronian,,37.2,33.9,34254
+897406,occ,,,99594,Gopherus laticuneus,species,173229,Chadronian,Orellan,37.2,33.3,34254
+897408,occ,,,99595,Gopherus laticuneus,species,173229,Chadronian,,37.2,33.9,34254
+898331,occ,,,99850,Gopherus laticuneus,species,173229,Orellan,,33.9,33.3,760
+898332,occ,,,99851,Gopherus laticuneus,species,173229,Orellan,,33.9,33.3,760
+1389219,occ,,,16977,Gopherus laticuneus,species,173229,Chadronian,,37.2,33.9,64377
+897417,occ,,,99597,Gopherus mohavensis,species,105245,Barstovian,,15.97,13.6,697
+897418,occ,,,19553,Gopherus mohavensis,species,105245,Clarendonian,,13.6,10.3,697
+256291,occ,,,20604,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,1962
+287849,occ,,,20400,Gopherus polyphemus,species,55036,Irvingtonian,,1.8,0.3,1960
+361709,occ,,,34269,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,9009
+533694,occ,,,20440,Gopherus polyphemus,species,55036,Rancholabrean,,0.3,0.12,2050
+610330,occ,34952,,65405,Gopherus polyphemus,species,55036,Pleistocene,,2.588,0.0117,66358
+1083772,occ,,,20491,Gopherus polyphemus,species,55036,Rancholabrean,,0.3,0.12,43539
+1111269,occ,,,20638,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,45624
+1112729,occ,,,20650,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,45803
+1196087,occ,,,154722,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,50316
+1197025,occ,,,154805,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,50394
+1412115,occ,,,20384,Gopherus polyphemus,species,55036,Gelasian,,2.588,1.806,66358
+1412116,occ,,,20385,Gopherus polyphemus,species,55036,Irvingtonian,,1.8,0.3,66358
+1412117,occ,,,98317,Gopherus polyphemus,species,55036,Blancan,,4.9,1.8,66358
+1412118,occ,,,101742,Gopherus polyphemus,species,55036,Blancan,,4.9,1.8,66358
+1412119,occ,,,98315,Gopherus polyphemus,species,55036,Blancan,,4.9,1.8,66358
+1412120,occ,,,20351,Gopherus polyphemus,species,55036,Irvingtonian,,1.8,0.3,66358
+1412121,occ,,,26550,Gopherus polyphemus,species,55036,Irvingtonian,,1.8,0.3,66358
+1412122,occ,,,20524,Gopherus polyphemus,species,55036,Irvingtonian,,1.8,0.3,66358
+1412123,occ,,,20594,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,66358
+1412134,occ,,,20398,Gopherus polyphemus,species,55036,Rancholabrean,,0.3,0.12,66358
+1412135,occ,,,164396,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,66358
+1412137,occ,,,77590,Gopherus polyphemus,species,55036,Pleistocene,,2.588,0.0117,66358
+1412138,occ,,,122303,Gopherus polyphemus,species,55036,Holocene,,0.0117,0,66358
+1412139,occ,,,100344,Gopherus polyphemus,species,55036,Holocene,,0.0117,0,66358
+1412140,occ,,,100349,Gopherus polyphemus,species,55036,Holocene,,0.0117,0,66358
+1412141,occ,,,100347,Gopherus polyphemus,species,55036,Holocene,,0.0117,0,66358
+1412142,occ,,,100346,Gopherus polyphemus,species,55036,Holocene,,0.0117,0,66358
+1412242,occ,,,20289,Gopherus polyphemus,species,55036,Irvingtonian,,1.8,0.3,66358
+1412246,occ,,,195110,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,66358
+1412247,occ,,,195111,Gopherus polyphemus,species,55036,Late Pleistocene,,0.126,0.0117,66358
+1412248,occ,,,195112,Gopherus polyphemus,species,55036,Rancholabrean,,0.3,0.12,66358
+1412249,occ,,,195113,Gopherus polyphemus,species,55036,Rancholabrean,,0.3,0.12,66358
+1479561,occ,,,206227,Gopherus polyphemus,species,55036,Pleistocene,,2.588,0.0117,70774
+1387547,occ,,,190749,Hesperotestudo bermudae,species,364319,Late Pleistocene,,0.126,0.0117,64121
+287873,occ,,,20402,Hesperotestudo crassiscutata,species,173079,Irvingtonian,,1.8,0.3,769
+533695,occ,,,20440,Hesperotestudo crassiscutata,species,173079,Rancholabrean,,0.3,0.12,2050
+558955,occ,,,58089,Hesperotestudo crassiscutata,species,173079,Irvingtonian,,1.8,0.3,15601
+648822,occ,,,70118,Hesperotestudo crassiscutata,species,173079,Blancan,,4.9,1.8,23537
+740941,occ,,,79667,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,26766
+788264,occ,,,85137,Hesperotestudo crassiscutata,species,173079,Pleistocene,,2.588,0.0117,28647
+838742,occ,,,93103,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,3185
+1083774,occ,,,20491,Hesperotestudo crassiscutata,species,173079,Rancholabrean,,0.3,0.12,43539
+1196879,occ,,,154804,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,50371
+1197027,occ,,,154805,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,50394
+1197867,occ,,,154921,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,50430
+1200556,occ,,,20616,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,50695
+1246507,occ,,,164396,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,53644
+1246509,occ,,,164397,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,53645
+1393495,occ,,,34269,Hesperotestudo crassiscutata,species,173079,Late Pleistocene,,0.126,0.0117,64327
+1417094,occ,,,190386,Hesperotestudo crassiscutata,species,173079,Miocene,,23.03,5.333,54433
+1417095,occ,,,196056,Hesperotestudo crassiscutata,species,173079,Pleistocene,,2.588,0.0117,54433
+1426386,occ,,,180339,Hesperotestudo crassiscutata,species,173079,Rancholabrean,,0.3,0.12,67564
+1034071,occ,,,100213,Hesperotestudo ducateli,species,83315,Langhian,,15.97,13.82,41094
+1391732,occ,34443,,191555,Hesperotestudo gilbertii,species,173078,Tortonian,Zanclean,11.62,3.6,55607
+1595571,occ,,,225602,Hesperotestudo harrisi,species,456349,Barstovian,,15.97,13.6,81718
+229257,occ,33978,,18324,Hesperotestudo orthopygia,species,67779,Clarendonian,,13.6,10.3,63362
+286965,occ,,,18284,Hesperotestudo orthopygia,species,67779,Barstovian,,15.97,13.6,706
+287822,occ,,,18223,Hesperotestudo orthopygia,species,67779,Barstovian,,15.97,13.6,712
+1353060,occ,,,67489,Hesperotestudo orthopygia,species,67779,Pliocene,,5.333,2.588,61269
+1353061,occ,,,183467,Hesperotestudo orthopygia,species,67779,Late Miocene,Early Pliocene,11.608,3.6,61269
+1353062,occ,,,183468,Hesperotestudo orthopygia,species,67779,Late Miocene,Early Pliocene,11.608,3.6,61269
+1353063,occ,,,183469,Hesperotestudo orthopygia,species,67779,Late Miocene,Early Pliocene,11.608,3.6,61269
+1353064,occ,,,183470,Hesperotestudo orthopygia,species,67779,Late Miocene,Early Pliocene,11.608,3.6,61269
+1353065,occ,,,183471,Hesperotestudo orthopygia,species,67779,Late Miocene,Early Pliocene,11.608,3.6,61269
+1379369,occ,,,188779,Hesperotestudo orthopygia,species,67779,Clarendonian,,13.6,10.3,63362
+1393553,occ,,,19940,Hesperotestudo orthopygia,species,67779,Blancan,,4.9,1.8,64804
+1393554,occ,,,19936,Hesperotestudo orthopygia,species,67779,Blancan,,4.9,1.8,64804
+1392981,occ,,,191836,Hesperotestudo osborniana,species,121689,Hemingfordian,Barstovian,20.43,13.6,64729
+1392987,occ,,,17735,Hesperotestudo osborniana,species,121689,Harrisonian,,24.8,20.43,64739
+1393523,occ,,,191916,Hesperotestudo osborniana,species,121689,Barstovian,,15.97,13.6,14442
+1393542,occ,,,191918,Hesperotestudo osborniana,species,121689,Hemphillian,,10.3,4.9,14442
+1414067,occ,,,195408,Hesperotestudo osborniana,species,121689,Harrisonian,,24.8,20.43,64765
+256292,occ,,,20604,Hesperotestudo turgida,species,121672,Late Pleistocene,,0.126,0.0117,1962
+256409,occ,,,20613,Hesperotestudo turgida,species,121672,Late Pleistocene,,0.126,0.0117,1962
+287906,occ,,,20289,Hesperotestudo turgida,species,121672,Irvingtonian,,1.8,0.3,767
+289269,occ,,,19954,Hesperotestudo turgida,species,121672,Blancan,,4.9,1.8,777
+648852,occ,,,18560,Hesperotestudo turgida,species,121672,Hemphillian,,10.3,4.9,23540
+648853,occ,,,18545,Hesperotestudo turgida,species,121672,Miocene,,23.03,5.333,23540
+751345,occ,,,20033,Hesperotestudo turgida,species,121672,Blancan,,4.9,1.8,27051
+898198,occ,,,99818,Hesperotestudo turgida,species,121672,Miocene,Pleistocene,23.03,0.0117,36696
+898199,occ,,,99819,Hesperotestudo turgida,species,121672,Late Pliocene,,3.6,2.588,34314
+898200,occ,,,18076,Hesperotestudo turgida,species,121672,Late Hemphillian,,10.3,4.9,34314
+1083773,occ,,,20491,Hesperotestudo turgida,species,121672,Rancholabrean,,0.3,0.12,43539
+1132803,occ,,,18556,Hesperotestudo turgida,species,121672,Hemphillian,,10.3,4.9,46620
+1196088,occ,,,154722,Hesperotestudo turgida,species,121672,Late Pleistocene,,0.126,0.0117,50316
+1197026,occ,,,154805,Hesperotestudo turgida,species,121672,Late Pleistocene,,0.126,0.0117,50394
+1391461,occ,,,191451,Hesperotestudo turgida,species,121672,Late Pliocene,,3.6,2.588,64597
+1393421,occ,,,191910,Hesperotestudo turgida,species,121672,Late Pliocene,Early Pleistocene,3.6,0.781,64778
+1393422,occ,,,19963,Hesperotestudo turgida,species,121672,Blancan,,4.9,1.8,64778
+1414073,occ,,,195410,Hesperotestudo turgida,species,121672,Pleistocene,,2.588,0.0117,64327
+1393357,occ,36625,,18626,Hesperotestudo williamsi,species,366302,Hemingfordian,,20.43,15.97,64768
+1427520,occ,,,167274,Homopus comptoni,species,235281,Ypresian,,56,47.8,41531
+1413662,occ,,,195282,Homopus fenestratus,species,374266,Neogene,,23.03,2.588,66489
+1427519,occ,,,122872,Homopus scutella,species,235279,Sarmatian,,12.7,11.608,41531
+971086,occ,,,115205,Homopus signatus,species,401991,Pleistocene,,2.588,0.0117,37314
+989373,occ,,,21725,Impregnochelys pachytectis,species,203535,Burdigalian,,20.44,15.97,4924
+1446763,occ,,,201933,Indotestudo elongata,species,376557,Holocene,,0.0117,0,69159
+1446778,occ,,,201936,Indotestudo elongata,species,376557,Holocene,,0.0117,0,69159
+1587288,occ,,,224295,Indotestudo forstenii,species,376558,Late Pliocene,,3.6,2.588,79680
+1046735,occ,,,73781,Indotestudo kaiseni,species,172494,Late Eocene,,37.2,33.9,34192
+464103,occ,,,45835,Indotestudo takasago,species,365744,Chattian,,28.1,23.03,12180
+1319018,occ,,,78236,Juvemys labarrerei,species,338368,Ypresian,,56,47.8,58573
+1320124,occ,,,177493,Juvemys labarrerei,species,338368,Lutetian,,47.8,41.3,58573
+1320125,occ,,,177494,Juvemys labarrerei,species,338368,Lutetian,,47.8,41.3,58573
+1329848,occ,,,179043,Kansuchelys chiayukuanensis,species,341245,Late Eocene,Oligocene,37.2,23.03,58770
+1414313,occ,,,42273,Kansuchelys ovalis,species,341252,Ruscinian,,5.333,3.2,64237
+1329860,occ,,,179046,Kansuchelys tsiyuanensis,species,341253,Late Eocene,Early Oligocene,37.2,28.4,59660
+227080,occ,,,22073,Kinixys erosa,species,203531,Holocene,,0.0117,0,5324
+989380,occ,,,21726,Kinixys erosa,species,203531,Burdigalian,,20.44,15.97,4924
+1446764,occ,,,201933,Manouria emys,species,376559,Holocene,,0.0117,0,69159
+1389573,occ,,,191058,Manouria oyamai,species,364854,Late Pleistocene,,0.126,0.0117,64406
+1389574,occ,,,191059,Manouria oyamai,species,364854,Late Pleistocene,,0.126,0.0117,64406
+1389575,occ,,,191060,Manouria oyamai,species,364854,Late Pleistocene,,0.126,0.0117,64406
+1389576,occ,,,191061,Manouria oyamai,species,364854,Late Pleistocene,,0.126,0.0117,64406
+1389577,occ,,,48721,Manouria oyamai,species,364854,Pleistocene,,2.588,0.0117,64406
+1400369,occ,,,192971,Manouria oyamai,species,364854,Late Pleistocene,,0.126,0.0117,65605
+1329899,occ,,,42273,Manouria yushensis,species,341269,Ruscinian,,5.333,3.2,64237
+407564,occ,,,39209,Megalochelys sivalensis,species,375519,Late Pliocene,,3.6,2.588,10584
+407591,occ,,,39210,Megalochelys sivalensis,species,375519,Late Pliocene,,3.6,2.588,10584
+623862,occ,,,67172,Megalochelys sivalensis,species,375519,Late Miocene,,11.608,5.333,19162
+805375,occ,,,87489,Megalochelys sivalensis,species,375519,Late Miocene,,11.608,5.333,29547
+842435,occ,,,93519,Megalochelys sivalensis,species,375519,Early Pleistocene,,2.588,0.781,31625
+842797,occ,,,93548,Megalochelys sivalensis,species,375519,Late Pliocene,,3.6,2.588,31625
+843190,occ,,,93635,Megalochelys sivalensis,species,375519,Late Pliocene,,3.6,2.588,31625
+1416637,occ,,,93517,Megalochelys sivalensis,species,375519,Early Pleistocene,,2.588,0.781,66692
+1416864,occ,,,195987,Megalochelys sivalensis,species,375519,Pleistocene,,2.588,0.0117,66702
+1416883,occ,,,92070,Megalochelys sivalensis,species,375519,Pliocene,,5.333,2.588,66703
+1416884,occ,,,92070,Megalochelys sivalensis,species,375519,Pliocene,,5.333,2.588,66704
+1427523,occ,,,92070,Megalochelys sivalensis,species,375519,Pliocene,,5.333,2.588,41531
+213571,occ,35061,,21855,Mesochersus orangeus,species,374264,Middle Miocene,,15.97,11.608,66484
+150870,occ,,,13449,Miotestudo ibba,species,86855,Miocene,,23.03,5.333,6063
+537394,occ,,,14149,Miotestudo ibba,species,86855,Langhian,,15.97,13.82,15040
+213562,occ,,,21855,Namibchersus namaquensis,species,203528,Middle Miocene,,15.97,11.608,4922
+651159,occ,35062,,70421,Namibchersus namaquensis,species,203528,Early Miocene,Middle Miocene,23.03,11.608,66484
+651161,occ,35063,,70420,Namibchersus namaquensis,species,203528,Early Miocene,Middle Miocene,23.03,11.608,66484
+1413634,occ,,,146601,Namibchersus namaquensis,species,203528,Early Miocene,,23.03,15.97,66485
+1413649,occ,,,168036,Namibchersus namaquensis,species,203528,Early Miocene,,23.03,15.97,66484
+1578481,occ,,,53970,Namibchersus namaquensis,species,203528,MN 4,,16.9,15.97,78416
+1320126,occ,,,177495,Palaeoemys hessiaca,species,338751,Early Oligocene,,33.9,28.4,58573
+1554576,occ,,,24201,Palaeoemys hessiaca,species,338751,MP 13,,48.6,40.4,76228
+1319016,occ,,,78236,Palaeoemys occitana,species,338366,Ypresian,,56,47.8,58573
+419691,occ,,,40765,Testudo antiqua,species,358124,Vallesian,,11.608,8.7,11009
+419696,occ,,,40767,Testudo antiqua,species,358124,Vallesian,,11.608,8.7,11009
+1401720,occ,,,187347,Testudo antiqua,species,358124,Langhian,Serravallian,15.97,11.62,65661
+1401721,occ,,,187345,Testudo antiqua,species,358124,Serravallian,,13.82,11.62,65661
+1401722,occ,,,187341,Testudo antiqua,species,358124,Langhian,,15.97,13.82,65661
+1401723,occ,,,193245,Testudo antiqua,species,358124,Early Miocene,,23.03,15.97,65661
+1401724,occ,,,187337,Testudo antiqua,species,358124,Langhian,,15.97,13.82,65661
+1401725,occ,,,193246,Testudo antiqua,species,358124,Early Miocene,,23.03,15.97,65661
+1401726,occ,,,193247,Testudo antiqua,species,358124,Early Miocene,,23.03,15.97,65661
+1401727,occ,,,35876,Testudo antiqua,species,358124,Vallesian,,11.608,8.7,65661
+1463347,occ,,,204220,Testudo antiqua,species,358124,Middle Miocene,,15.97,11.608,69992
+1463348,occ,,,201475,Testudo antiqua,species,358124,Miocene,,23.03,5.333,69991
+1463349,occ,,,190006,Testudo antiqua,species,358124,Middle Miocene,Late Miocene,15.97,5.333,69991
+1463350,occ,,,92640,Testudo antiqua,species,358124,MN 7 + 8,,12.75,11.1,69991
+1463351,occ,,,204221,Testudo antiqua,species,358124,Middle Miocene,,15.97,11.608,69991
+1463352,occ,,,204222,Testudo antiqua,species,358124,Middle Miocene,,15.97,11.608,69991
+1463353,occ,,,204223,Testudo antiqua,species,358124,Middle Miocene,,15.97,11.608,69991
+1463354,occ,,,204224,Testudo antiqua,species,358124,Middle Miocene,,15.97,11.608,69991
+1467631,occ,,,78514,Testudo antiqua,species,358124,MN 10,,9.7,8.7,70350
+1467635,occ,,,204958,Testudo antiqua,species,358124,MN 10,,9.7,8.7,70350
+1497233,occ,,,68914,Testudo antiqua,species,358124,MN 11,,8.7,7.75,71915
+1129994,occ,,,143472,Paleotestudo canetotiana,species,105291,Middle Miocene,,15.97,11.608,46485
+1338668,occ,,,32191,Paleotestudo canetotiana,species,105291,Langhian,Serravallian,15.97,11.62,60047
+1538695,occ,,,144047,Paleotestudo mellingi,species,430088,Langhian,,15.97,13.82,74675
+1083650,occ,34077,,68440,Barnesia eocaenica,species,132786,MP 10,,55.8,48.6,59713
+1317512,occ,34082,,176938,Barnesia eocaenica,species,132786,Lutetian,,47.8,41.3,59713
+1334956,occ,,,179960,Barnesia eocaenica,species,132786,Lutetian,,47.8,41.3,59713
+1338665,occ,34074,,31736,Barnesia eocaenica,species,132786,Bartonian,,41.3,38,59713
+1338723,occ,34075,,35539,Barnesia eocaenica,species,132786,Ypresian,,56,47.8,59713
+1338730,occ,34076,,35540,Barnesia eocaenica,species,132786,Ypresian,,56,47.8,59713
+1342848,occ,34079,,181653,Barnesia eocaenica,species,132786,Ypresian,,56,47.8,59713
+1342858,occ,34078,,73387,Barnesia eocaenica,species,132786,Ypresian,,56,47.8,59713
+1357842,occ,34080,,184468,Barnesia eocaenica,species,132786,Lutetian,,47.8,41.3,59713
+1554580,occ,,,24201,Barnesia eocaenica,species,132786,MP 13,,48.6,40.4,76228
+416329,occ,32518,,40358,Pelorochelon soriana,species,344584,Bartonian,,41.3,38,59713
+706396,occ,,,36143,Protestudo bessarabica,species,383995,Late Miocene,,11.608,5.333,24838
+706406,occ,,,75801,Protestudo bessarabica,species,383995,Tortonian,,11.62,7.246,24838
+706459,occ,,,75802,Protestudo bessarabica,species,383995,Tortonian,,11.62,7.246,24838
+1485434,occ,,,167995,Protestudo bessarabica,species,383995,MN 12,,7.75,7.246,71048
+1541206,occ,,,184395,Protestudo bessarabica,species,383995,Late Miocene,,11.608,5.333,74972
+1413663,occ,,,183152,Psammobates antiquorum,species,374267,Early Pleistocene,,2.588,0.781,66490
+1427931,occ,,,70902,Sinohadrianus ezoensis,species,365780,Lutetian,,47.8,41.3,67635
+466168,occ,,,46197,Sinohadrianus sichuanensis,species,341244,Late Eocene,Early Oligocene,37.2,28.4,59291
+387722,occ,10508,,36974,Solitudo gymnesica,species,358119,Pleistocene,,2.588,0.0117,9885
+1436133,occ,,,200360,Solitudo gymnesica,species,358119,Late Pliocene,Early Pleistocene,3.6,0.781,68384
+1388440,occ,,,190860,Solitudo robusta,species,235270,Pleistocene,,2.588,0.0117,64165
+1388441,occ,,,190860,Solitudo robusta,species,235270,Pleistocene,,2.588,0.0117,64165
+1388470,occ,,,190862,Solitudo robusta,species,235270,Pleistocene,,2.588,0.0117,64166
+1601124,occ,,,226377,Solitudo sicula,species,459733,Late Pleistocene,,0.126,0.0117,82067
+224583,occ,,,21795,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224619,occ,,,21798,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224642,occ,,,21799,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224668,occ,,,21800,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224828,occ,,,21810,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224877,occ,,,21812,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224896,occ,,,21813,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+224916,occ,,,21816,Stigmochelys brachygularis,species,374269,Gelasian,,2.588,1.806,4451
+225376,occ,,,21831,Stigmochelys brachygularis,species,374269,Piacenzian,,3.6,2.588,4451
+339224,occ,,,32050,Stigmochelys brachygularis,species,374269,Pliocene,,5.333,2.588,4451
+212209,occ,25905,,21336,Stigmochelys crassa,species,203525,Zanclean,,5.333,3.6,4924
+1362166,occ,,,146600,Stigmochelys crassa,species,203525,Early Miocene,,23.03,15.97,62155
+1422160,occ,,,197471,Stylemys bottii,species,105290,Miocene,,23.03,5.333,67341
+1393472,occ,,,180202,Stylemys capax,species,105280,Arikareean,,30.8,20.43,14442
+1393473,occ,,,180202,Stylemys capax,species,105280,Arikareean,,30.8,20.43,14442
+1256933,occ,39977,,166797,Stylemys gisellae,species,461899,Bartonian,Rupelian,41.3,28.1,82535
+691670,occ,,,74503,Stylemys inusitata,species,366304,Early Miocene,,23.03,15.97,25003
+1393358,occ,,,17885,Stylemys inusitata,species,366304,Hemingfordian,,20.43,15.97,64739
+1426066,occ,,,198240,Stylemys karakolensis,species,105292,Oligocene,,33.9,23.03,67535
+897399,occ,,,99590,Stylemys nebrascensis,species,235294,Orellan,,33.9,33.3,34254
+897401,occ,,,99591,Stylemys nebrascensis,species,235294,Chadronian,,37.2,33.9,34254
+897403,occ,,,99592,Stylemys nebrascensis,species,235294,Orellan,,33.9,33.3,34254
+897405,occ,,,99593,Stylemys nebrascensis,species,235294,Chadronian,,37.2,33.9,34254
+897407,occ,,,99594,Stylemys nebrascensis,species,235294,Chadronian,Orellan,37.2,33.3,34254
+897409,occ,,,99595,Stylemys nebrascensis,species,235294,Chadronian,,37.2,33.9,34254
+897411,occ,,,17133,Stylemys nebrascensis,species,235294,Orellan,,33.9,33.3,3170
+897414,occ,,,17527,Stylemys nebrascensis,species,235294,Arikareean,,30.8,20.43,697
+898265,occ,,,99836,Stylemys nebrascensis,species,235294,Early Oligocene,,33.9,28.4,34333
+1280887,occ,,,101961,Stylemys nebrascensis,species,235294,Chadronian,,37.2,33.9,55503
+1386586,occ,,,190539,Stylemys nebrascensis,species,235294,Rupelian,,33.9,28.1,64068
+1386610,occ,,,190539,Stylemys nebrascensis,species,235294,Rupelian,,33.9,28.1,64069
+1386611,occ,,,190539,Stylemys nebrascensis,species,235294,Rupelian,,33.9,28.1,64069
+1386612,occ,,,190539,Stylemys nebrascensis,species,235294,Rupelian,,33.9,28.1,12192
+1386613,occ,,,190539,Stylemys nebrascensis,species,235294,Rupelian,,33.9,28.1,13001
+1389220,occ,,,16977,Stylemys nebrascensis,species,235294,Chadronian,,37.2,33.9,64377
+1389221,occ,,,16977,Stylemys nebrascensis,species,235294,Chadronian,,37.2,33.9,64377
+1393521,occ,,,17745,Stylemys nebrascensis,species,235294,Harrisonian,,24.8,20.43,14442
+1414068,occ,,,17152,Stylemys nebrascensis,species,235294,Orellan,,33.9,33.3,64803
+1340372,occ,,,181060,Cheirogaster gigas,species,346128,Early Oligocene,,33.9,28.4,76915
+1340664,occ,,,181106,Testudo amberiacensis,species,346198,Turolian,,8.7,5.333,60047
+1340665,occ,,,181107,Testudo amberiacensis,species,346198,Turolian,Pliocene,8.7,2.588,60047
+1388406,occ,,,190851,Testudo amiatae,species,364472,Late Miocene,,11.608,5.333,64152
+351312,occ,,,33396,Testudo antiqua,species,364327,MN 15,,4.2,3.2,8882
+926824,occ,35347,,106003,Testudo antiqua,species,364327,Burdigalian,Langhian,20.44,13.82,67646
+966809,occ,,,65181,Testudo antiqua,species,364327,Burdigalian,,20.44,15.97,37050
+1340697,occ,,,181123,Testudo antiqua,species,364327,Middle Miocene,,15.97,11.608,60047
+1387572,occ,,,190754,Testudo antiqua,species,364327,Middle Miocene,,15.97,11.608,76715
+1397007,occ,36843,,192446,Testudo antiqua,species,364327,Late Miocene,,11.608,5.333,72007
+1427972,occ,,,49101,Testudo antiqua,species,364327,Burdigalian,,20.44,15.97,67646
+1427985,occ,,,198614,Testudo antiqua,species,364327,Burdigalian,,20.44,15.97,67646
+1498863,occ,,,208570,Testudo antiqua,species,364327,Late Miocene,,11.608,5.333,72007
+1427521,occ,,,92070,Testudo atlas,species,235272,Pliocene,,5.333,2.588,41531
+1375757,occ,,,187950,Testudo bosporica,species,238488,Sarmatian,,12.7,11.608,63088
+1348350,occ,,,182686,Testudo brevitesta,species,347893,Late Pliocene,,3.6,2.588,60889
+1364944,occ,,,185859,Testudo brevitesta,species,347893,Late Pliocene,,3.6,2.588,60889
+1364947,occ,,,185860,Testudo brevitesta,species,347893,Late Pliocene,,3.6,2.588,60889
+1364948,occ,,,185861,Testudo brevitesta,species,347893,Late Pliocene,,3.6,2.588,60889
+1364949,occ,,,185862,Testudo brevitesta,species,347893,Late Pliocene,,3.6,2.588,60889
+1391265,occ,,,191398,Testudo brontops,species,96498,Chadronian,,37.2,33.9,23561
+1427522,occ,,,92070,Testudo cautleyi,species,235273,Pliocene,,5.333,2.588,41531
+1427539,occ,,,198590,Testudo cernovi,species,238489,Early Pliocene,,5.333,3.6,67604
+1329902,occ,,,179052,Testudo changshanensis,species,341271,Early Pleistocene,,2.588,0.781,58770
+1329890,occ,,,179049,Testudo chienfutungensis,species,341263,Miocene,,23.03,5.333,64237
+1385199,occ,,,190141,Testudo costarricensis,species,363763,Oligocene,Early Miocene,33.9,15.97,63970
+1427893,occ,,,113998,Testudo craverii,species,365832,Messinian,,7.246,5.333,67605
+1340654,occ,,,181101,Testudo denizoti,species,346197,Rupelian,,33.9,28.1,60047
+1388472,occ,,,190864,Testudo despotti,species,364508,Pleistocene,,2.588,0.0117,64168
+537162,occ,,,55664,Testudo emys,species,364326,Zanclean,,5.333,3.6,15031
+1427525,occ,,,198589,Testudo escheri,species,235276,Middle Miocene,,15.97,11.608,41531
+1427988,occ,,,198616,Testudo escheri,species,235276,Serravallian,,13.82,11.62,67647
+1427527,occ,,,125333,Testudo eurysternum,species,235278,Aquitanian,,23.03,20.44,41531
+351311,occ,,,33396,Testudo globosa,species,365833,MN 15,,4.2,3.2,8882
+368231,occ,,,34840,Testudo globosa,species,365833,MN 15,MN 16,4.2,2.588,8882
+1391950,occ,,,191646,Testudo globosa,species,365833,Pliocene,,5.333,2.588,64640
+219150,occ,,,22489,Testudo graeca,species,364325,Pleistocene,,2.588,0.0117,5619
+384373,occ,34590,,36579,Testudo graeca,species,364325,Ruscinian,,5.333,3.2,65163
+417596,occ,35020,,40500,Testudo graeca,species,364325,Early Pleistocene,,2.588,0.781,66368
+439020,occ,,,42866,Testudo graeca,species,364325,Middle Pleistocene,,0.781,0.126,11378
+1348308,occ,,,182682,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,60884
+1348330,occ,32933,,182684,Testudo graeca,species,364325,Late Miocene,Early Pliocene,11.608,3.6,60885
+1349005,occ,32945,,182683,Testudo graeca,species,364325,Late Miocene,Early Pliocene,11.608,3.6,60885
+1350589,occ,,,183123,Testudo graeca,species,364325,Pleistocene,,2.588,0.0117,61123
+1351775,occ,34588,,183345,Testudo graeca,species,364325,Early Pleistocene,,2.588,0.781,65163
+1357367,occ,,,184361,Testudo graeca,species,364325,Middle Miocene,,15.97,11.608,61765
+1357461,occ,,,184384,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,61765
+1357464,occ,,,68569,Testudo graeca,species,364325,MN 13,,7.246,4.9,61765
+1357472,occ,,,184387,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,61765
+1357478,occ,,,184389,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,61765
+1357479,occ,,,184390,Testudo graeca,species,364325,Pliocene,,5.333,2.588,61765
+1357481,occ,,,184392,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,61765
+1357485,occ,,,68560,Testudo graeca,species,364325,Middle Miocene,,15.97,11.608,61765
+1357490,occ,,,68559,Testudo graeca,species,364325,MN 7 + 8,,12.75,11.1,61765
+1357493,occ,,,68570,Testudo graeca,species,364325,MN 15,,4.2,3.2,61765
+1357501,occ,,,184399,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,61765
+1357513,occ,,,184402,Testudo graeca,species,364325,Late Miocene,,11.608,5.333,61765
+1372444,occ,,,187335,Testudo graeca,species,364325,Late Pleistocene,,0.126,0.0117,62849
+1396749,occ,,,192424,Testudo graeca,species,364325,Middle Pleistocene,,0.781,0.126,65127
+1396785,occ,,,192425,Testudo graeca,species,364325,Middle Pleistocene,,0.781,0.126,65127
+1397006,occ,,,192445,Testudo graeca,species,364325,Pleistocene,,2.588,0.0117,65163
+1413274,occ,,,190860,Testudo graeca,species,364325,Pleistocene,,2.588,0.0117,66368
+1413587,occ,,,195261,Testudo graeca,species,364325,Pleistocene,,2.588,0.0117,66478
+1414980,occ,,,56733,Testudo graeca,species,364325,Early Pleistocene,,2.588,0.781,66565
+1603568,occ,,,226737,Testudo graeca,species,364325,Holocene,,0.0117,0,82257
+1603569,occ,,,226737,Testudo graeca,species,364325,Holocene,,0.0117,0,82257
+1499775,occ,,,191070,Testudo hellenica,species,414403,Vallesian,,11.608,8.7,72042
+360320,occ,,,34128,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,8987
+370487,occ,,,35076,Testudo hermanni,species,94333,Pliocene,Pleistocene,5.333,0.0117,9424
+382564,occ,,,36373,Testudo hermanni,species,94333,Pleistocene,,2.588,0.0117,9754
+440154,occ,,,43016,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,11400
+443264,occ,,,43655,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,11465
+443695,occ,,,43700,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,11465
+507148,occ,39862,,51477,Testudo hermanni,species,94333,Pliocene,Pleistocene,5.333,0.0117,82315
+641079,occ,18988,,69062,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,19881
+1348495,occ,32937,,182709,Testudo hermanni,species,94333,Late Pleistocene,Holocene,0.126,0,60904
+1356866,occ,,,184245,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,61580
+1413033,occ,,,195221,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,66368
+1413252,occ,,,175900,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,66368
+1414974,occ,,,195564,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,66563
+1450074,occ,,,202329,Testudo hermanni,species,94333,Pleistocene,,2.588,0.0117,65163
+1469252,occ,,,205232,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469253,occ,,,205231,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469255,occ,,,205230,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469262,occ,,,205229,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469263,occ,,,205228,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469264,occ,,,205227,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469265,occ,,,205226,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1469266,occ,,,205225,Testudo hermanni,species,94333,Calabrian,,1.806,0.781,70426
+1470027,occ,,,205285,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,70429
+1470029,occ,,,205286,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,70429
+1470031,occ,,,205288,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,70429
+1470033,occ,,,122309,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,70429
+1500087,occ,,,208787,Testudo hermanni,species,94333,Holocene,,0.0117,0,72065
+1568133,occ,,,221412,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,77543
+1568150,occ,,,221413,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,77543
+1568159,occ,,,221414,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,77543
+1568174,occ,,,221415,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,77543
+1568203,occ,,,221416,Testudo hermanni,species,94333,Late Pleistocene,,0.126,0.0117,77543
+1568223,occ,,,221420,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,77543
+1568250,occ,,,221422,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,77543
+1568265,occ,,,221424,Testudo hermanni,species,94333,Middle Pleistocene,,0.781,0.126,77543
+1601376,occ,,,226436,Testudo hermanni,species,94333,Late Miocene,,11.608,5.333,82110
+1391724,occ,,,20498,Gopherus hexagonatus,species,365639,Irvingtonian,,1.8,0.3,53742
+1329891,occ,,,42273,Testudo hipparionum,species,341264,Ruscinian,,5.333,3.2,58770
+1413703,occ,,,195285,Testudo hipparionum,species,341264,Late Miocene,,11.608,5.333,44012
+1413716,occ,,,195286,Testudo honanensis,species,341267,Late Miocene,,11.608,5.333,44012
+1414501,occ,,,42273,Testudo honanensis,species,341267,Ruscinian,,5.333,3.2,64237
+1414502,occ,,,179049,Testudo honanensis,species,341267,Miocene,,23.03,5.333,64237
+1377881,occ,,,188445,Testudo houzei,species,359388,Lutetian,,47.8,41.3,29875
+1329893,occ,,,179050,Testudo hypercostata,species,341265,Late Miocene,,11.608,5.333,44012
+1413677,occ,,,194074,Testudo indica,species,382658,Holocene,,0.0117,0,66500
+1427973,occ,,,106003,Testudo kalksburgensis,species,380346,Burdigalian,Langhian,20.44,13.82,67646
+1427986,occ,,,198614,Testudo kalksburgensis,species,380346,Burdigalian,,20.44,15.97,67646
+1431372,occ,,,175587,Testudo kalksburgensis,species,380346,Sarmatian,,12.7,11.608,67851
+1578371,occ,,,190142,Testudo kalksburgensis,species,380346,Orleanian,,20,15.97,78407
+1578373,occ,,,200140,Testudo kalksburgensis,species,380346,Orleanian,,20,15.97,78407
+1578376,occ,,,222819,Testudo kalksburgensis,species,380346,Orleanian,,20,15.97,78407
+1578378,occ,,,222818,Testudo kalksburgensis,species,380346,Orleanian,,20,15.97,78407
+1578380,occ,,,222817,Testudo kalksburgensis,species,380346,Orleanian,,20,15.97,78407
+1413632,occ,,,195273,Testudo kenitrensis,species,388620,Late Pliocene,,3.6,2.588,66482
+1450052,occ,,,202324,Testudo kenitrensis,species,388620,Middle Pleistocene,,0.781,0.126,69329
+1560124,occ,,,181100,Testudo lamanonii,species,437593,Oligocene,Early Miocene,33.9,15.97,63677
+1560129,occ,,,31747,Testudo lamanonii,species,437593,Priabonian,,38,33.9,12784
+1427526,occ,,,32191,Testudo larteti,species,235277,Langhian,Serravallian,15.97,11.62,41531
+1431977,occ,39534,,199755,Testudo lohanica,species,453923,Tortonian,,11.62,7.246,80993
+1329866,occ,,,36668,Testudo lunanensis,species,341260,Middle Eocene,,48.6,37.2,58770
+1376844,occ,,,93698,Testudo margae,species,358990,Pleistocene,,2.588,0.0117,63130
+1416639,occ,,,93697,Testudo margae,species,358990,Pleistocene,,2.588,0.0117,66693
+517564,occ,,,52486,Testudo marginata,species,376852,Pliocene,Pleistocene,5.333,0.0117,14113
+1348305,occ,34595,,182679,Testudo marginata,species,376852,Pleistocene,,2.588,0.0117,65163
+1349015,occ,,,182809,Testudo marginata,species,376852,Late Pleistocene,,0.126,0.0117,60957
+1349020,occ,,,182810,Testudo marginata,species,376852,Late Pleistocene,,0.126,0.0117,60958
+1349021,occ,,,182811,Testudo marginata,species,376852,Pleistocene,,2.588,0.0117,60958
+1350561,occ,,,183122,Testudo marginata,species,376852,Pleistocene,,2.588,0.0117,61121
+1350619,occ,,,183124,Testudo marginata,species,376852,Late Pleistocene,,0.126,0.0117,61124
+1356865,occ,,,184245,Testudo marginata,species,376852,Late Pleistocene,,0.126,0.0117,61580
+1396998,occ,,,92902,Testudo marginata,species,376852,Late Pleistocene,,0.126,0.0117,65163
+1397000,occ,,,192441,Testudo marginata,species,376852,Pleistocene,,2.588,0.0117,65163
+1397002,occ,,,192442,Testudo marginata,species,376852,Pleistocene,,2.588,0.0117,69330
+1397005,occ,,,192444,Testudo marginata,species,376852,Pliocene,Pleistocene,5.333,0.0117,65163
+1406974,occ,,,194472,Testudo marginata,species,376852,Middle Pleistocene,,0.781,0.126,66043
+1406977,occ,,,194477,Testudo marginata,species,376852,Middle Pleistocene,,0.781,0.126,66043
+541091,occ,37745,,56563,Testudo marmorum,species,347955,Late Miocene,,11.608,5.333,74972
+1348692,occ,,,182754,Testudo marmorum,species,347955,Late Miocene,,11.608,5.333,60921
+1356910,occ,36841,,73869,Testudo marmorum,species,347955,MN 11,,8.7,7.75,72005
+1357377,occ,37746,,68561,Testudo marmorum,species,347955,MN 5,MN 6,15.97,12.75,74972
+1449153,occ,,,202213,Testudo marmorum,species,347955,Turolian,,8.7,5.333,69294
+1452840,occ,36842,,202630,Testudo marmorum,species,347955,Late Miocene,,11.608,5.333,72005
+1470382,occ,,,205351,Testudo marmorum,species,347955,Turolian,,8.7,5.333,70452
+1498782,occ,,,208566,Testudo marmorum,species,347955,Turolian,,8.7,5.333,72006
+1498810,occ,,,208567,Testudo marmorum,species,347955,Turolian,,8.7,5.333,72006
+1498838,occ,,,208568,Testudo marmorum,species,347955,Turolian,,8.7,5.333,72006
+1498861,occ,,,208569,Testudo marmorum,species,347955,Turolian,,8.7,5.333,72006
+1329047,occ,,,178876,Testudo nanus,species,172496,Early Oligocene,,33.9,28.4,58770
+971759,occ,35059,,32052,Testudo oughlamensis,species,374257,Late Pliocene,,3.6,2.588,66482
+1388422,occ,,,190856,Testudo pecorinii,species,364502,Piacenzian,,3.6,2.588,64161
+1338693,occ,,,36712,Cheirogaster phosphoritarum,species,346352,MP 28,,28.4,23.03,60047
+1341215,occ,,,179194,Cheirogaster phosphoritarum,species,346352,Late Eocene,Early Miocene,37.2,15.97,60203
+1338680,occ,,,125333,Testudo promarginata,species,364328,Aquitanian,,23.03,20.44,60047
+1342810,occ,,,181642,Testudo promarginata,species,364328,Burdigalian,,20.44,15.97,60047
+1342851,occ,,,181655,Testudo promarginata,species,364328,Burdigalian,,20.44,15.97,60047
+1342887,occ,,,181675,Testudo promarginata,species,364328,Burdigalian,,20.44,15.97,60047
+1374028,occ,,,187580,Testudo promarginata,species,364328,Burdigalian,Tortonian,20.44,7.246,62965
+1342855,occ,,,181656,Testudo pusilla,species,364839,Late Oligocene,,28.4,23.03,60047
+1413692,occ,,,179050,Testudo shansiensis,species,341266,Late Miocene,,11.608,5.333,44012
+1414500,occ,,,42273,Testudo shansiensis,species,341266,Ruscinian,,5.333,3.2,64237
+1329864,occ,,,174962,Testudo sharanensis,species,341258,Middle Eocene,,48.6,37.2,58770
+1315288,occ,,,176521,Testudo shensiensis,species,364329,Middle Miocene,,15.97,11.608,58113
+1413686,occ,,,195283,Testudo shensiensis,species,364329,Late Miocene,,11.608,5.333,44012
+1414497,occ,,,42273,Testudo shensiensis,species,364329,Ruscinian,,5.333,3.2,64237
+1414498,occ,,,42273,Testudo shensiensis,species,364329,Ruscinian,,5.333,3.2,64237
+1329901,occ,,,179051,Testudo shilouensis,species,341270,Late Miocene,,11.608,5.333,58770
+438949,occ,,,42254,Testudo sphaerica,species,341268,Vallesian,,11.608,8.7,11354
+438975,occ,,,42862,Testudo sphaerica,species,341268,Turolian,,8.7,5.333,11354
+1413691,occ,,,195284,Testudo sphaerica,species,341268,Late Miocene,,11.608,5.333,44012
+1414499,occ,,,42273,Testudo sphaerica,species,341268,Ruscinian,,5.333,3.2,64237
+1408767,occ,,,49520,Testudo steinheimensis,species,430087,MN 7 + 8,,12.75,11.1,74673
+1409066,occ,,,194684,Testudo steinheimensis,species,430087,Middle Miocene,,15.97,11.608,66150
+1431371,occ,,,175587,Testudo steinheimensis,species,430087,Sarmatian,,12.7,11.608,67851
+706460,occ,,,75802,Testudo tarakliensis,species,383996,Tortonian,,11.62,7.246,24838
+1329870,occ,,,179049,Testudo tunhuanensis,species,341261,Miocene,,23.03,5.333,64237
+1329856,occ,,,127656,Testudo ulanensis,species,172497,Middle Eocene,,48.6,37.2,58770
+1329865,occ,,,36668,Testudo yunnanensis,species,341259,Middle Eocene,,48.6,37.2,58770
+384374,occ,34591,,36579,Titanochelon bacharidisi,species,347873,Ruscinian,,5.333,3.2,65163
+1348290,occ,,,182672,Titanochelon bacharidisi,species,347873,Early Pliocene,Late Pliocene,5.333,2.588,60875
+1348291,occ,,,182673,Titanochelon bacharidisi,species,347873,Early Pliocene,Late Pliocene,5.333,2.588,60875
+1348292,occ,,,182674,Titanochelon bacharidisi,species,347873,Early Pliocene,Late Pliocene,5.333,2.588,60875
+1357548,occ,33152,,184410,Titanochelon bacharidisi,species,347873,Early Pliocene,,5.333,3.6,60875
+419482,occ,,,40747,Titanochelon bolivari,species,268040,Orleanian,,20,15.97,10996
+1135763,occ,,,144666,Titanochelon bolivari,species,268040,Middle Miocene,,15.97,11.608,64553
+1135764,occ,,,144667,Titanochelon bolivari,species,268040,Middle Miocene,,15.97,11.608,46814
+1135765,occ,,,92640,Titanochelon bolivari,species,268040,MN 7 + 8,,12.75,11.1,60890
+1135769,occ,,,144670,Titanochelon bolivari,species,268040,Vallesian,,11.608,8.7,46814
+1357178,occ,,,35989,Titanochelon bolivari,species,268040,Burdigalian,,20.44,15.97,61639
+1357179,occ,,,35986,Titanochelon bolivari,species,268040,Langhian,,15.97,13.82,61639
+1357180,occ,,,35986,Titanochelon bolivari,species,268040,Langhian,,15.97,13.82,61639
+1357181,occ,,,184303,Titanochelon bolivari,species,268040,Middle Miocene,,15.97,11.608,61639
+1357182,occ,,,184304,Titanochelon bolivari,species,268040,Early Miocene,,23.03,15.97,61639
+1372446,occ,35567,,187336,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372447,occ,,,187337,Titanochelon bolivari,species,268040,Langhian,,15.97,13.82,60876
+1372448,occ,,,187338,Titanochelon bolivari,species,268040,Langhian,Serravallian,15.97,11.62,60876
+1372449,occ,,,187339,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372451,occ,,,187340,Titanochelon bolivari,species,268040,Tortonian,,11.62,7.246,60876
+1372452,occ,,,187341,Titanochelon bolivari,species,268040,Langhian,,15.97,13.82,60876
+1372453,occ,,,187342,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372454,occ,,,187343,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372455,occ,,,187344,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372456,occ,,,187345,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372457,occ,,,187346,Titanochelon bolivari,species,268040,Serravallian,,13.82,11.62,60876
+1372458,occ,,,187347,Titanochelon bolivari,species,268040,Langhian,Serravallian,15.97,11.62,60876
+1474082,occ,,,205815,Titanochelon bolivari,species,268040,Burdigalian,,20.44,15.97,70584
+1494416,occ,,,197674,Titanochelon bolivari,species,268040,Middle Miocene,,15.97,11.608,71661
+1497234,occ,,,68914,Titanochelon bolivari,species,268040,MN 11,,8.7,7.75,71915
+1497236,occ,,,208187,Titanochelon bolivari,species,268040,Middle Miocene,,15.97,11.608,71916
+1545276,occ,,,217467,Titanochelon bolivari,species,268040,Burdigalian,,20.44,15.97,75533
+1545278,occ,,,217466,Titanochelon bolivari,species,268040,Burdigalian,,20.44,15.97,75533
+1338751,occ,,,69116,Titanochelon ginsburgi,species,437596,MN 4,,16.9,15.97,60047
+1357376,occ,37740,,68561,Titanochelon kayadibiensis,species,431128,MN 5,MN 6,15.97,12.75,74972
+1357483,occ,37741,,56563,Titanochelon kayadibiensis,species,431128,Late Miocene,,11.608,5.333,74972
+1357489,occ,37739,,184395,Titanochelon kayadibiensis,species,431128,Late Miocene,,11.608,5.333,74972
+1357494,occ,37742,,184398,Titanochelon kayadibiensis,species,431128,Late Miocene,,11.608,5.333,74972
+387160,occ,,,36985,Titanochelon perpiniana,species,358806,Zanclean,Piacenzian,5.333,2.588,9891
+1375697,occ,,,178672,Titanochelon perpiniana,species,358806,Zanclean,,5.333,3.6,63082
+1375698,occ,,,36103,Titanochelon perpiniana,species,358806,Pliocene,,5.333,2.588,63083
+1348674,occ,,,182751,Titanochelon schafferi,species,347950,Late Miocene,,11.608,5.333,60910
+1448679,occ,36844,,202120,Titanochelon schafferi,species,347950,Late Miocene,,11.608,5.333,72007
+1498864,occ,,,95691,Titanochelon schafferi,species,347950,Messinian,,7.246,5.333,72007
+1498865,occ,,,95690,Titanochelon schafferi,species,347950,Messinian,,7.246,5.333,72007
+926825,occ,35348,,106003,Titanochelon vitodurana,species,380347,Burdigalian,Langhian,20.44,13.82,67646
+1427991,occ,,,198616,Titanochelon vitodurana,species,380347,Serravallian,,13.82,11.62,67647
+1427992,occ,,,198617,Titanochelon vitodurana,species,380347,Serravallian,,13.82,11.62,67647
