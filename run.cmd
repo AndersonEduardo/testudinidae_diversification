@@ -2,24 +2,26 @@
 
 :: DEFININDO AS VARIAVEIS
 ::numero de replicas:
-set max_rep=3
+set max_rep=1
 ::caminho relativo ate o arquivo pbdb_data_PyRate.py:
 set pbd_path="pbdb_data_PyRate.py"
 :: caminho relativo para a pasta MCMC logs:
 set pyrate_mcmc_logs="pyrate_mcmc_logs"
 :: arquivo da variavel para analise de correlacao:
 set correlate_variable="co2Cz.txt"
-::numero de geracoes (ou epocas) do algoritmo bayesiano (valores na ordem de milhoes):
-set n=10000
+::numero de geracoes (ou epocas) do algoritmo bayesiano (usar valores na ordem de milhoes):
+set n=1000000
 ::os outputs para analise de convergencia serao produzidos com este espacamento, para
 :: ficar mais enxuto (em vez de milhoes de linhas, desnecessariamente):
-set s=5
+set s=5000
 ::burnin
 set b=0.1
 ::burnin para o plot (tem que ser numero inteiro):
-set bs=10
+set bs=200
 ::singleton
 ::set singleton=1
+::modelo para correlacao:
+set m_corr=1
 
 :: abertura
 echo.
@@ -248,7 +250,7 @@ python PyRateContinuous.py -ginput ../%pyrate_mcmc_logs%
 echo.
 if errorlevel 1 goto correlationanalysiserror
 ::python PyRateContinuous.py -d ../%pyrate_mcmc_logs%/pbdb_data_1replicate_1_Grj_se_est.txt -c ../%correlate_variable% -m 0
-for /l %%i in (1,1,%max_rep%) do python PyRateContinuous.py -d ../%pyrate_mcmc_logs%/pbdb_data_%%ireplicate_%%i_Grj_se_est.txt -c ../%correlate_variable% -m 0 -n %n%
+for /l %%i in (1,1,%max_rep%) do python PyRateContinuous.py -d ../%pyrate_mcmc_logs%/pbdb_data_%%ireplicate_%%i_Grj_se_est.txt -c ../%correlate_variable% -m %m_corr% -n %n%
 echo.
 if errorlevel 1 goto correlationanalysiserror
 echo.
